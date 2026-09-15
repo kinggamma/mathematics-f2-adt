@@ -1,0 +1,6738 @@
+{
+  "~": {
+    "word": "~",
+    "definition": "A mathematical symbol meaning “is similar to.”",
+    "variations": [
+      "~"
+    ],
+    "emoji": "🔣🔁",
+    "id": "gl001"
+  },
+  "AA": {
+    "word": "AA",
+    "definition": "A short form for the Angle-Angle similarity theorem.",
+    "variations": [
+      "AA",
+      "A.A."
+    ],
+    "emoji": "📐🔺",
+    "id": "gl002"
+  },
+  "AA similarity theorem": {
+    "word": "AA similarity theorem",
+    "definition": "A theorem used to prove triangles are similar by showing that two pairs of angles are equal.",
+    "variations": [
+      "AA similarity theorem",
+      "AA theorem"
+    ],
+    "emoji": "📐✅",
+    "id": "gl003"
+  },
+  "AA theorem": {
+    "word": "AA theorem",
+    "definition": "A rule saying that if two angles of one triangle are equal to two angles of another triangle, the triangles are similar.",
+    "variations": [
+      "AA theorem",
+      "AA similarity theorem"
+    ],
+    "emoji": "📐🔺",
+    "id": "gl004"
+  },
+  "AAS postulate": {
+    "word": "AAS postulate",
+    "definition": "A geometry rule stating that if two angles and one non-included side of one triangle are equal to those of another triangle, the triangles are congruent.",
+    "variations": [],
+    "emoji": "📐🔺",
+    "id": "gl005"
+  },
+  "accelerate": {
+    "word": "accelerate",
+    "definition": "To accelerate means to increase speed.",
+    "variations": [
+      "accelerate",
+      "accelerates",
+      "accelerated",
+      "accelerating",
+      "acceleration"
+    ],
+    "emoji": "🚀⬆️",
+    "id": "gl006"
+  },
+  "accuracy": {
+    "word": "accuracy",
+    "definition": "how correct or close to the true value something is",
+    "variations": [
+      "accurate",
+      "accurately"
+    ],
+    "emoji": "🎯✅",
+    "id": "gl007"
+  },
+  "acid": {
+    "word": "acid",
+    "definition": "An acid is a substance that has certain chemical properties, often measured using scales such as pH.",
+    "variations": [
+      "acid",
+      "acids"
+    ],
+    "emoji": "🧪",
+    "id": "gl008"
+  },
+  "acknowledgements": {
+    "word": "acknowledgements",
+    "definition": "Acknowledgements are the part of a book where the author thanks people and organisations for their help.",
+    "variations": [
+      "acknowledgement",
+      "acknowledgements"
+    ],
+    "emoji": "🙏📘",
+    "id": "gl009"
+  },
+  "acute angle": {
+    "word": "acute angle",
+    "definition": "An angle that is greater than 0 degrees and less than 90 degrees.",
+    "variations": [
+      "acute angle",
+      "acute angles"
+    ],
+    "emoji": "📐🔺",
+    "id": "gl010"
+  },
+  "addition": {
+    "word": "addition",
+    "definition": "The operation of finding the total by combining numbers.",
+    "variations": [
+      "addition"
+    ],
+    "emoji": "➕",
+    "id": "gl011"
+  },
+  "addition of radicals": {
+    "word": "addition of radicals",
+    "definition": "Combining like radicals by adding their coefficients.",
+    "variations": [
+      "addition of radicals"
+    ],
+    "emoji": "➕√",
+    "id": "gl012"
+  },
+  "adjacent side": {
+    "word": "adjacent side",
+    "definition": "The side next to the chosen angle in a triangle, not counting the hypotenuse.",
+    "variations": [
+      "adjacent side",
+      "adjacent sides"
+    ],
+    "emoji": "➡️📏",
+    "id": "gl013"
+  },
+  "algebra": {
+    "word": "algebra",
+    "definition": "A branch of mathematics that uses letters and symbols to represent numbers and relationships.",
+    "variations": [
+      "algebra",
+      "algebraic"
+    ],
+    "emoji": "➕🔣",
+    "id": "gl014"
+  },
+  "algebraic expression": {
+    "word": "algebraic expression",
+    "definition": "A mathematical phrase made of numbers, variables, and operations.",
+    "variations": [
+      "algebraic expression",
+      "algebraic expressions"
+    ],
+    "emoji": "🧮✍️",
+    "id": "gl015"
+  },
+  "alkali": {
+    "word": "alkali",
+    "definition": "An alkali is a basic substance that can neutralize an acid.",
+    "variations": [
+      "alkali",
+      "alkalis"
+    ],
+    "emoji": "🧪",
+    "id": "gl016"
+  },
+  "alternate angles": {
+    "word": "alternate angles",
+    "definition": "Angles formed on opposite sides of a transversal when it crosses lines, often equal when the lines are parallel.",
+    "variations": [
+      "alternate angle",
+      "alternate angles"
+    ],
+    "emoji": "📐🔄",
+    "id": "gl017"
+  },
+  "alternate interior angles": {
+    "word": "alternate interior angles",
+    "definition": "Angles on opposite sides of a transversal and inside two parallel lines; they are equal when the lines are parallel.",
+    "variations": [
+      "alternate interior angle",
+      "alternate interior angles"
+    ],
+    "emoji": "📐🔀",
+    "id": "gl018"
+  },
+  "altitude": {
+    "word": "altitude",
+    "definition": "A line segment drawn from a vertex perpendicular to the opposite side.",
+    "variations": [
+      "altitude",
+      "altitudes"
+    ],
+    "emoji": "⬇️📏",
+    "id": "gl019"
+  },
+  "angle": {
+    "word": "angle",
+    "definition": "The amount of turn between two lines or sides meeting at a point.",
+    "variations": [
+      "angle",
+      "angles"
+    ],
+    "emoji": "📐↪️",
+    "id": "gl020"
+  },
+  "angle bisector": {
+    "word": "angle bisector",
+    "definition": "A line or ray that divides an angle into two equal angles.",
+    "variations": [
+      "angle bisector",
+      "angle bisectors"
+    ],
+    "emoji": "📐✂️",
+    "id": "gl021"
+  },
+  "angle of depression": {
+    "word": "angle of depression",
+    "definition": "the angle between a horizontal line and the line of sight when you look downward at an object",
+    "variations": [
+      "angle of depression",
+      "angles of depression"
+    ],
+    "emoji": "📐⬇️",
+    "id": "gl022"
+  },
+  "angle of elevation": {
+    "word": "angle of elevation",
+    "definition": "the angle between a horizontal line and the line of sight when you look upward at an object",
+    "variations": [
+      "angle of elevation",
+      "angles of elevation"
+    ],
+    "emoji": "📐⬆️",
+    "id": "gl023"
+  },
+  "Angle-Angle similarity theorem": {
+    "word": "Angle-Angle similarity theorem",
+    "definition": "A theorem stating that if two pairs of corresponding angles in two triangles are equal, then the triangles are similar.",
+    "variations": [
+      "Angle-Angle similarity theorem",
+      "AA similarity theorem",
+      "AA-similarity theorem"
+    ],
+    "emoji": "📐📐🔺",
+    "id": "gl024"
+  },
+  "Angle-Angle-Side (AAS) postulate": {
+    "word": "Angle-Angle-Side (AAS) postulate",
+    "definition": "A rule that says two triangles are congruent if two pairs of corresponding angles and one pair of corresponding sides are equal.",
+    "variations": [
+      "Angle-Angle-Side",
+      "AAS",
+      "AAS postulate"
+    ],
+    "emoji": "📐🔺",
+    "id": "gl025"
+  },
+  "annual interest rate": {
+    "word": "annual interest rate",
+    "definition": "The annual interest rate is the percentage charged or earned in one year.",
+    "variations": [
+      "annual interest rate",
+      "interest rate",
+      "rates of interest"
+    ],
+    "emoji": "📅💹",
+    "id": "gl026"
+  },
+  "anticlockwise": {
+    "word": "anticlockwise",
+    "definition": "moving in the opposite direction to the hands of a clock",
+    "variations": [
+      "anticlockwise",
+      "counterclockwise"
+    ],
+    "emoji": "🕐↪️",
+    "id": "gl027"
+  },
+  "antilogarithm": {
+    "word": "antilogarithm",
+    "definition": "An antilogarithm is the number obtained by reversing a logarithm.",
+    "variations": [
+      "antilogarithm",
+      "antilogarithms",
+      "antilog",
+      "antilogs"
+    ],
+    "emoji": "↩️🔟",
+    "id": "gl028"
+  },
+  "apartment": {
+    "word": "apartment",
+    "definition": "a set of rooms for living in, usually in a larger building",
+    "variations": [
+      "apartments"
+    ],
+    "emoji": "🏠🏢",
+    "id": "gl029"
+  },
+  "application": {
+    "word": "application",
+    "definition": "A practical use of an idea, or a computer program used for a task.",
+    "variations": [
+      "application",
+      "applications"
+    ],
+    "emoji": "💻🛠️",
+    "id": "gl030"
+  },
+  "application of logarithms": {
+    "word": "application of logarithms",
+    "definition": "This means using logarithms to solve real-life or mathematical problems.",
+    "variations": [
+      "application of logarithms",
+      "applications of logarithms"
+    ],
+    "emoji": "📘🌍",
+    "id": "gl031"
+  },
+  "architectural": {
+    "word": "architectural",
+    "definition": "Related to the design and planning of buildings and structures.",
+    "variations": [
+      "architectural",
+      "architecture"
+    ],
+    "emoji": "🏛️📏",
+    "id": "gl032"
+  },
+  "architecture": {
+    "word": "architecture",
+    "definition": "The art and science of designing buildings and structures.",
+    "variations": [
+      "architecture"
+    ],
+    "emoji": "🏛️📏",
+    "id": "gl033"
+  },
+  "area": {
+    "word": "area",
+    "definition": "The amount of surface inside a shape.",
+    "variations": [
+      "area",
+      "areas"
+    ],
+    "emoji": "⬜📐",
+    "id": "gl034"
+  },
+  "area of a triangle": {
+    "word": "area of a triangle",
+    "definition": "the amount of space inside a triangle",
+    "variations": [
+      "triangle area",
+      "areas of triangles"
+    ],
+    "emoji": "🔺📐",
+    "id": "gl035"
+  },
+  "argument": {
+    "word": "argument",
+    "definition": "A connected set of mathematical reasons used to support a conclusion.",
+    "variations": [
+      "argument",
+      "arguments"
+    ],
+    "emoji": "🧠🗣️",
+    "id": "gl036"
+  },
+  "arithmetic": {
+    "word": "arithmetic",
+    "definition": "Basic mathematics involving addition, subtraction, multiplication, and division.",
+    "variations": [],
+    "emoji": "➕✖️",
+    "id": "gl037"
+  },
+  "ASA postulate": {
+    "word": "ASA postulate",
+    "definition": "A rule that says two triangles are congruent if two angles and the included side of one triangle are equal to the matching parts of another triangle.",
+    "variations": [
+      "ASA postulate",
+      "Angle-Side-Angle postulate",
+      "ASA"
+    ],
+    "emoji": "🔺📏📐",
+    "id": "gl038"
+  },
+  "Australian dollar": {
+    "word": "Australian dollar",
+    "definition": "the official money used in Australia",
+    "variations": [
+      "Australian dollars",
+      "AUD"
+    ],
+    "emoji": "🇦🇺💵",
+    "id": "gl039"
+  },
+  "author": {
+    "word": "author",
+    "definition": "An author is the person or organisation that writes a book or text.",
+    "variations": [
+      "author",
+      "authors"
+    ],
+    "emoji": "✍️📘",
+    "id": "gl040"
+  },
+  "average rate of change": {
+    "word": "average rate of change",
+    "definition": "Average rate of change is the amount a quantity changes over a period of time.",
+    "variations": [
+      "average rate of change"
+    ],
+    "emoji": "📈⏱️",
+    "id": "gl041"
+  },
+  "baker": {
+    "word": "baker",
+    "definition": "a person whose job is making bread, cakes, or other baked foods",
+    "variations": [
+      "bakers"
+    ],
+    "emoji": "👨‍🍳🍞",
+    "id": "gl042"
+  },
+  "balcony": {
+    "word": "balcony",
+    "definition": "a platform that sticks out from the side of a building",
+    "variations": [
+      "balcony",
+      "balconies"
+    ],
+    "emoji": "🏢🪟",
+    "id": "gl043"
+  },
+  "bank": {
+    "word": "bank",
+    "definition": "The side of a river.",
+    "variations": [
+      "bank",
+      "banks",
+      "river bank",
+      "river banks"
+    ],
+    "emoji": "🏞️📍",
+    "id": "gl044"
+  },
+  "base": {
+    "word": "base",
+    "definition": "The base is the number or variable that is multiplied by itself in a power.",
+    "variations": [
+      "base",
+      "bases"
+    ],
+    "emoji": "🧱🔢",
+    "id": "gl045"
+  },
+  "base 10 logarithm": {
+    "word": "base 10 logarithm",
+    "definition": "A logarithm with base 10. It tells the power of 10 needed to make a number.",
+    "variations": [
+      "base 10 logarithm",
+      "base-10 logarithm",
+      "common logarithm",
+      "common logarithms"
+    ],
+    "emoji": "🔟🧮",
+    "id": "gl046"
+  },
+  "base angles": {
+    "word": "base angles",
+    "definition": "The two angles at the base of an isosceles triangle.",
+    "variations": [
+      "base angle",
+      "base angles"
+    ],
+    "emoji": "📐🔺",
+    "id": "gl047"
+  },
+  "bearing": {
+    "word": "bearing",
+    "definition": "a direction measured using angles from north",
+    "variations": [
+      "bearing",
+      "bearings"
+    ],
+    "emoji": "🧭📐",
+    "id": "gl048"
+  },
+  "belongs to": {
+    "word": "belongs to",
+    "definition": "In set notation, 'belongs to' means an object is a member of a set.",
+    "variations": [
+      "belongs to"
+    ],
+    "emoji": "∈✅",
+    "id": "gl049"
+  },
+  "bibliography": {
+    "word": "bibliography",
+    "definition": "A bibliography is a list of books and sources used in preparing a text.",
+    "variations": [
+      "bibliography",
+      "bibliographies"
+    ],
+    "emoji": "📚🔎",
+    "id": "gl050"
+  },
+  "binary operation": {
+    "word": "binary operation",
+    "definition": "a rule that combines two quantities to produce one result in the same set",
+    "variations": [
+      "binary operation",
+      "binary operations"
+    ],
+    "emoji": "⚙️➕",
+    "id": "gl051"
+  },
+  "binary operations": {
+    "word": "binary operations",
+    "definition": "Mathematical operations that combine two numbers or expressions, such as addition or multiplication.",
+    "variations": [
+      "binary operation"
+    ],
+    "emoji": "➕✖️",
+    "id": "gl052"
+  },
+  "bisect": {
+    "word": "bisect",
+    "definition": "To divide something into two equal parts.",
+    "variations": [
+      "bisect",
+      "bisects",
+      "bisected"
+    ],
+    "emoji": "✂️2️⃣",
+    "id": "gl053"
+  },
+  "bisector": {
+    "word": "bisector",
+    "definition": "A line or ray that divides an angle or a segment into two equal parts.",
+    "variations": [
+      "bisector",
+      "bisectors",
+      "bisects"
+    ],
+    "emoji": "✂️📏",
+    "id": "gl054"
+  },
+  "boat": {
+    "word": "boat",
+    "definition": "a small vehicle used for traveling on water",
+    "variations": [
+      "boat",
+      "boats"
+    ],
+    "emoji": "🛶🌊",
+    "id": "gl055"
+  },
+  "body mass index": {
+    "word": "body mass index",
+    "definition": "a value that compares a person’s mass to the square of their height",
+    "variations": [
+      "BMI",
+      "body mass indices"
+    ],
+    "emoji": "⚖️🧍",
+    "id": "gl056"
+  },
+  "bridge": {
+    "word": "bridge",
+    "definition": "A structure built to cross over something such as water or a road.",
+    "variations": [
+      "bridge",
+      "bridges"
+    ],
+    "emoji": "🌉",
+    "id": "gl057"
+  },
+  "building": {
+    "word": "building",
+    "definition": "a structure with walls and a roof",
+    "variations": [
+      "building",
+      "buildings"
+    ],
+    "emoji": "🏢",
+    "id": "gl058"
+  },
+  "bullet": {
+    "word": "bullet",
+    "definition": "a small metal object fired from a gun",
+    "variations": [
+      "bullet",
+      "bullets"
+    ],
+    "emoji": "🔩",
+    "id": "gl059"
+  },
+  "calculator": {
+    "word": "calculator",
+    "definition": "A calculator is a device or tool used to perform mathematical calculations.",
+    "variations": [
+      "calculator",
+      "calculators"
+    ],
+    "emoji": "🧮",
+    "id": "gl060"
+  },
+  "cardinality": {
+    "word": "cardinality",
+    "definition": "The number of elements in a set.",
+    "variations": [
+      "cardinality"
+    ],
+    "emoji": "🔢📐",
+    "id": "gl061"
+  },
+  "Cartesian coordinate system": {
+    "word": "Cartesian coordinate system",
+    "definition": "a system that uses horizontal and vertical number lines to locate points",
+    "variations": [
+      "Cartesian coordinate system",
+      "Cartesian coordinates",
+      "coordinate system"
+    ],
+    "emoji": "📊✖️➕",
+    "id": "gl062"
+  },
+  "centre": {
+    "word": "centre",
+    "definition": "the middle point of a circle or shape",
+    "variations": [
+      "centre",
+      "centres",
+      "center",
+      "centers"
+    ],
+    "emoji": "⭕📍",
+    "id": "gl063"
+  },
+  "Certificate of Approval": {
+    "word": "Certificate of Approval",
+    "definition": "A Certificate of Approval is an official document showing that something has been accepted or authorised.",
+    "variations": [
+      "Certificate of Approval",
+      "certificates of approval"
+    ],
+    "emoji": "📜✅",
+    "id": "gl064"
+  },
+  "change of base formula": {
+    "word": "change of base formula",
+    "definition": "A formula used to rewrite a logarithm in one base as a logarithm in another base.",
+    "variations": [
+      "change of base formula",
+      "change of base",
+      "base-change formula"
+    ],
+    "emoji": "🔄📘",
+    "id": "gl065"
+  },
+  "chapter": {
+    "word": "chapter",
+    "definition": "A chapter is one main section of a book.",
+    "variations": [
+      "chapter",
+      "chapters"
+    ],
+    "emoji": "📚🔖",
+    "id": "gl066"
+  },
+  "Chapter Six": {
+    "word": "Chapter Six",
+    "definition": "Chapter Six is the section of the book that introduces logarithms and standard form.",
+    "variations": [
+      "Chapter Six"
+    ],
+    "emoji": "📘6️⃣",
+    "id": "gl067"
+  },
+  "chapter summary": {
+    "word": "chapter summary",
+    "definition": "A short review of the main ideas learned in a chapter.",
+    "variations": [
+      "chapter summary",
+      "chapter summaries"
+    ],
+    "emoji": "📚📝",
+    "id": "gl068"
+  },
+  "characteristic": {
+    "word": "characteristic",
+    "definition": "In common logarithms, the characteristic is the whole-number part of the logarithm.",
+    "variations": [
+      "characteristic",
+      "characteristics"
+    ],
+    "emoji": "🔢📘",
+    "id": "gl069"
+  },
+  "chord": {
+    "word": "chord",
+    "definition": "A line segment joining two points on a circle.",
+    "variations": [
+      "chord",
+      "chords"
+    ],
+    "emoji": "⭕📏",
+    "id": "gl070"
+  },
+  "church tower": {
+    "word": "church tower",
+    "definition": "a tall tower that is part of a church building",
+    "variations": [
+      "church tower",
+      "church towers"
+    ],
+    "emoji": "⛪⬆️",
+    "id": "gl071"
+  },
+  "circle": {
+    "word": "circle",
+    "definition": "A round shape often used in Venn diagrams to show a set.",
+    "variations": [
+      "circle",
+      "circles"
+    ],
+    "emoji": "⭕🔵",
+    "id": "gl072"
+  },
+  "circular object": {
+    "word": "circular object",
+    "definition": "an object with the shape of a circle",
+    "variations": [
+      "circular objects"
+    ],
+    "emoji": "⭕📏",
+    "id": "gl073"
+  },
+  "circumference": {
+    "word": "circumference",
+    "definition": "The distance all the way around a circle.",
+    "variations": [
+      "circumference",
+      "circumferences"
+    ],
+    "emoji": "⭕📏",
+    "id": "gl074"
+  },
+  "cliff": {
+    "word": "cliff",
+    "definition": "a high steep face of rock or earth",
+    "variations": [
+      "cliff",
+      "cliffs"
+    ],
+    "emoji": "🪨⬇️",
+    "id": "gl075"
+  },
+  "climate action": {
+    "word": "climate action",
+    "definition": "Efforts to reduce climate change and deal with its effects.",
+    "variations": [
+      "climate action"
+    ],
+    "emoji": "🌍🌱",
+    "id": "gl076"
+  },
+  "clockwise": {
+    "word": "clockwise",
+    "definition": "moving in the same direction as the hands of a clock",
+    "variations": [
+      "clockwise"
+    ],
+    "emoji": "🕐↩️",
+    "id": "gl077"
+  },
+  "coefficient": {
+    "word": "coefficient",
+    "definition": "the number multiplying a variable, such as 6 in 6x",
+    "variations": [
+      "coefficient",
+      "coefficients"
+    ],
+    "emoji": "🔢✖️",
+    "id": "gl078"
+  },
+  "coin": {
+    "word": "coin",
+    "definition": "a small flat piece of metal used as money",
+    "variations": [
+      "coin",
+      "coins"
+    ],
+    "emoji": "🪙",
+    "id": "gl079"
+  },
+  "combined rate": {
+    "word": "combined rate",
+    "definition": "A combined rate is the total rate found by adding individual rates together.",
+    "variations": [
+      "combined rate",
+      "combined rates"
+    ],
+    "emoji": "➕⏱️",
+    "id": "gl080"
+  },
+  "combined variation": {
+    "word": "combined variation",
+    "definition": "a relationship that includes both direct variation and inverse variation",
+    "variations": [
+      "combined variations"
+    ],
+    "emoji": "🔀📊",
+    "id": "gl081"
+  },
+  "common angle": {
+    "word": "common angle",
+    "definition": "An angle shared by two different shapes or triangles.",
+    "variations": [
+      "common angle",
+      "common angles"
+    ],
+    "emoji": "📐🤝",
+    "id": "gl082"
+  },
+  "common elements": {
+    "word": "common elements",
+    "definition": "Elements that belong to two or more sets at the same time.",
+    "variations": [
+      "common element",
+      "common elements"
+    ],
+    "emoji": "🤝🔹",
+    "id": "gl083"
+  },
+  "common logarithm": {
+    "word": "common logarithm",
+    "definition": "A common logarithm is a logarithm with base 10.",
+    "variations": [
+      "common logarithm",
+      "common logarithms"
+    ],
+    "emoji": "🔟📘",
+    "id": "gl084"
+  },
+  "common logarithms": {
+    "word": "common logarithms",
+    "definition": "Logarithms with base 10.",
+    "variations": [
+      "common logarithm"
+    ],
+    "emoji": "🔟📘",
+    "id": "gl085"
+  },
+  "compare exponents": {
+    "word": "compare exponents",
+    "definition": "To check whether exponents are equal when the bases are the same.",
+    "variations": [
+      "compare exponent",
+      "compare exponents",
+      "comparing exponents"
+    ],
+    "emoji": "⚖️⬆️",
+    "id": "gl086"
+  },
+  "comparison of sets": {
+    "word": "comparison of sets",
+    "definition": "Checking sets to see whether they are equal, equivalent, or subsets of one another.",
+    "variations": [
+      "comparison of sets"
+    ],
+    "emoji": "⚖️🔍",
+    "id": "gl087"
+  },
+  "competency": {
+    "word": "competency",
+    "definition": "A skill or ability developed through learning and practice.",
+    "variations": [
+      "competency",
+      "competencies",
+      "competence"
+    ],
+    "emoji": "🎯📘",
+    "id": "gl088"
+  },
+  "complement": {
+    "word": "complement",
+    "definition": "The set of elements in the universal set that are not in a given set.",
+    "variations": [
+      "complement",
+      "complements"
+    ],
+    "emoji": "🌓∁",
+    "id": "gl089"
+  },
+  "complement of a set": {
+    "word": "complement of a set",
+    "definition": "All elements in the universal set that are not in the given set.",
+    "variations": [
+      "complements of a set"
+    ],
+    "emoji": "🧩🚫",
+    "id": "gl090"
+  },
+  "complementary": {
+    "word": "complementary",
+    "definition": "Describes two angles whose measures add up to 90 degrees.",
+    "variations": [
+      "complementary"
+    ],
+    "emoji": "📐➕9️⃣0️⃣",
+    "id": "gl091"
+  },
+  "complementary angles": {
+    "word": "complementary angles",
+    "definition": "two angles whose measures add up to 90 degrees",
+    "variations": [
+      "complementary angle",
+      "complementary angles"
+    ],
+    "emoji": "➕📐",
+    "id": "gl092"
+  },
+  "complete the square": {
+    "word": "complete the square",
+    "definition": "A method for rewriting a quadratic expression as a squared bracket plus or minus a number.",
+    "variations": [
+      "complete the square",
+      "completing the square"
+    ],
+    "emoji": "⬜🧮",
+    "id": "gl093"
+  },
+  "completing the square": {
+    "word": "completing the square",
+    "definition": "a method of turning a quadratic expression into a perfect square form so that the equation can be solved more easily",
+    "variations": [
+      "completing the square",
+      "complete the square"
+    ],
+    "emoji": "⬜🧮",
+    "id": "gl094"
+  },
+  "compound interest": {
+    "word": "compound interest",
+    "definition": "Compound interest is interest calculated on both the original money and the interest already added.",
+    "variations": [
+      "compound interest"
+    ],
+    "emoji": "💰📈",
+    "id": "gl095"
+  },
+  "conclusion": {
+    "word": "conclusion",
+    "definition": "A final idea or judgment reached after thinking or investigating.",
+    "variations": [
+      "conclusion",
+      "conclusions"
+    ],
+    "emoji": "🧠✅",
+    "id": "gl096"
+  },
+  "cone": {
+    "word": "cone",
+    "definition": "A solid shape with a circular base that narrows to a single point.",
+    "variations": [
+      "cone",
+      "cones"
+    ],
+    "emoji": "🔺📐",
+    "id": "gl097"
+  },
+  "congruence": {
+    "word": "congruence",
+    "definition": "The state of two figures having exactly the same shape and the same size.",
+    "variations": [
+      "congruence",
+      "congruent"
+    ],
+    "emoji": "📐🟰",
+    "id": "gl098"
+  },
+  "congruent": {
+    "word": "congruent",
+    "definition": "having the same shape and the same size",
+    "variations": [
+      "congruent"
+    ],
+    "emoji": "📐🟰",
+    "id": "gl099"
+  },
+  "congruent figures": {
+    "word": "congruent figures",
+    "definition": "Shapes that have exactly the same size and shape.",
+    "variations": [
+      "congruent figure"
+    ],
+    "emoji": "🔷🟰",
+    "id": "gl100"
+  },
+  "congruent polygons": {
+    "word": "congruent polygons",
+    "definition": "Polygons that are exactly the same shape and size.",
+    "variations": [
+      "congruent polygon",
+      "congruent polygons",
+      "congruent"
+    ],
+    "emoji": "🔷🟰",
+    "id": "gl101"
+  },
+  "conjugate": {
+    "word": "conjugate",
+    "definition": "A conjugate is a pair of expressions with the same terms but opposite signs, such as a+b and a-b.",
+    "variations": [
+      "conjugate",
+      "conjugates"
+    ],
+    "emoji": "➕➖",
+    "id": "gl102"
+  },
+  "consecutive numbers": {
+    "word": "consecutive numbers",
+    "definition": "numbers that follow one another in order, like 4 and 5",
+    "variations": [
+      "consecutive number",
+      "consecutive numbers"
+    ],
+    "emoji": "1️⃣2️⃣",
+    "id": "gl103"
+  },
+  "constant multiple": {
+    "word": "constant multiple",
+    "definition": "a fixed number that one quantity is multiplied by to get another",
+    "variations": [
+      "constant multiples"
+    ],
+    "emoji": "✖️📌",
+    "id": "gl104"
+  },
+  "constant of proportionality": {
+    "word": "constant of proportionality",
+    "definition": "The fixed number that shows how one set of lengths is scaled to another in similar figures.",
+    "variations": [
+      "constant of proportionality",
+      "constants of proportionality"
+    ],
+    "emoji": "🔢📏",
+    "id": "gl105"
+  },
+  "constant ratio": {
+    "word": "constant ratio",
+    "definition": "A ratio that stays the same in similar figures or under the given conditions.",
+    "variations": [
+      "constant ratio",
+      "constant ratios"
+    ],
+    "emoji": "🧮📌",
+    "id": "gl106"
+  },
+  "constant term": {
+    "word": "constant term",
+    "definition": "the term in an expression that has no variable, such as 9 in x² - 6x + 9",
+    "variations": [
+      "constant term",
+      "constant terms"
+    ],
+    "emoji": "🔒🔢",
+    "id": "gl107"
+  },
+  "construction": {
+    "word": "construction",
+    "definition": "The drawing or making of geometric figures using tools or rules.",
+    "variations": [
+      "construction",
+      "constructions"
+    ],
+    "emoji": "📐🛠️",
+    "id": "gl108"
+  },
+  "contained": {
+    "word": "contained",
+    "definition": "Fully included inside a set or another mathematical object.",
+    "variations": [
+      "contain",
+      "contained",
+      "contains",
+      "containing"
+    ],
+    "emoji": "📥🧺",
+    "id": "gl109"
+  },
+  "continuous compounding": {
+    "word": "continuous compounding",
+    "definition": "Continuous compounding means interest is added all the time, not at separate intervals.",
+    "variations": [
+      "continuous compounding"
+    ],
+    "emoji": "💰🔄",
+    "id": "gl110"
+  },
+  "coordinate axes": {
+    "word": "coordinate axes",
+    "definition": "the horizontal and vertical lines used in a coordinate system",
+    "variations": [
+      "coordinate axis",
+      "coordinate axes",
+      "axes"
+    ],
+    "emoji": "✖️➕",
+    "id": "gl111"
+  },
+  "coordinates": {
+    "word": "coordinates",
+    "definition": "numbers that show the position of a point on a graph",
+    "variations": [
+      "coordinate",
+      "coordinates"
+    ],
+    "emoji": "📍📊",
+    "id": "gl112"
+  },
+  "copyright": {
+    "word": "copyright",
+    "definition": "Copyright is the legal right that protects a creator’s work from being copied without permission.",
+    "variations": [
+      "copyright"
+    ],
+    "emoji": "©️⚖️",
+    "id": "gl113"
+  },
+  "correspondence": {
+    "word": "correspondence",
+    "definition": "The matching of parts in two figures, such as matching angles or sides.",
+    "variations": [
+      "correspondence",
+      "corresponding"
+    ],
+    "emoji": "↔️📐",
+    "id": "gl114"
+  },
+  "corresponding angles": {
+    "word": "corresponding angles",
+    "definition": "Angles in matching positions in two shapes or lines that are being compared.",
+    "variations": [
+      "corresponding angle",
+      "corresponding angles"
+    ],
+    "emoji": "📐🔁",
+    "id": "gl115"
+  },
+  "corresponding sides": {
+    "word": "corresponding sides",
+    "definition": "Sides in two shapes that match each other in position when the shapes are compared.",
+    "variations": [
+      "corresponding side",
+      "corresponding sides"
+    ],
+    "emoji": "📏🔁",
+    "id": "gl116"
+  },
+  "cosecant": {
+    "word": "cosecant",
+    "definition": "A trigonometric ratio that is the reciprocal of sine.",
+    "variations": [
+      "cosecant",
+      "csc"
+    ],
+    "emoji": "🔁📐",
+    "id": "gl117"
+  },
+  "cosine": {
+    "word": "cosine",
+    "definition": "A trigonometric ratio equal to the length of the adjacent side divided by the hypotenuse.",
+    "variations": [
+      "cosine",
+      "cos"
+    ],
+    "emoji": "📏➗",
+    "id": "gl118"
+  },
+  "cotangent": {
+    "word": "cotangent",
+    "definition": "A trigonometric ratio that is the reciprocal of tangent.",
+    "variations": [
+      "cotangent",
+      "cot"
+    ],
+    "emoji": "🔁📐",
+    "id": "gl119"
+  },
+  "crime investigation officer": {
+    "word": "crime investigation officer",
+    "definition": "a person whose job is to examine crimes and collect evidence",
+    "variations": [
+      "crime investigation officer",
+      "crime investigation officers"
+    ],
+    "emoji": "🕵️📋",
+    "id": "gl120"
+  },
+  "cross multiplication": {
+    "word": "cross multiplication",
+    "definition": "a method used with fractions by multiplying opposite terms",
+    "variations": [
+      "cross multiply",
+      "cross multiplied"
+    ],
+    "emoji": "✖️🔄",
+    "id": "gl121"
+  },
+  "cross-section": {
+    "word": "cross-section",
+    "definition": "the shape seen when something is cut straight across",
+    "variations": [
+      "cross-sections"
+    ],
+    "emoji": "✂️⭕",
+    "id": "gl122"
+  },
+  "cube": {
+    "word": "cube",
+    "definition": "To multiply a number or expression by itself twice.",
+    "variations": [
+      "cube",
+      "cubed",
+      "cubes"
+    ],
+    "emoji": "³🔢",
+    "id": "gl123"
+  },
+  "cube root": {
+    "word": "cube root",
+    "definition": "A number that, when multiplied by itself three times, gives the original number.",
+    "variations": [
+      "cube root",
+      "cube roots"
+    ],
+    "emoji": "∛3️⃣",
+    "id": "gl124"
+  },
+  "cubic metre": {
+    "word": "cubic metre",
+    "definition": "A cubic metre is a unit used to measure volume.",
+    "variations": [
+      "cubic metre",
+      "cubic metres",
+      "cubic meter",
+      "cubic meters"
+    ],
+    "emoji": "🧊📦",
+    "id": "gl125"
+  },
+  "curly brackets": {
+    "word": "curly brackets",
+    "definition": "Curly brackets are the symbols { } used to show the items in a set.",
+    "variations": [
+      "curly bracket",
+      "curly brackets"
+    ],
+    "emoji": "{}📚",
+    "id": "gl126"
+  },
+  "currency": {
+    "word": "currency",
+    "definition": "Currency is the money used in a particular country.",
+    "variations": [
+      "currency",
+      "currencies"
+    ],
+    "emoji": "💵🌍",
+    "id": "gl127"
+  },
+  "currency conversion application": {
+    "word": "currency conversion application",
+    "definition": "a computer or phone program that changes an amount of money from one currency to another",
+    "variations": [
+      "currency conversion applications",
+      "currency converter",
+      "currency converters"
+    ],
+    "emoji": "📱💱",
+    "id": "gl128"
+  },
+  "currency exchange": {
+    "word": "currency exchange",
+    "definition": "the process of changing money from one country into the money of another country",
+    "variations": [
+      "currency exchanges",
+      "exchange currency",
+      "exchanging currency"
+    ],
+    "emoji": "💱💵",
+    "id": "gl129"
+  },
+  "curve": {
+    "word": "curve",
+    "definition": "A line that bends and is often used to show the graph of a relation.",
+    "variations": [
+      "curve",
+      "curves"
+    ],
+    "emoji": "📈〰️",
+    "id": "gl130"
+  },
+  "cylinder": {
+    "word": "cylinder",
+    "definition": "A 3D shape with two equal circular bases and a curved surface.",
+    "variations": [
+      "cylinder",
+      "cylinders"
+    ],
+    "emoji": "🥫⭕",
+    "id": "gl131"
+  },
+  "De Morgan's law": {
+    "word": "De Morgan's law",
+    "definition": "A rule in set theory that relates complements of unions and intersections, such as (A ∪ B)' = A' ∩ B'.",
+    "variations": [
+      "De Morgan's law",
+      "De Morgan's laws"
+    ],
+    "emoji": "🔄📘",
+    "id": "gl132"
+  },
+  "decay": {
+    "word": "decay",
+    "definition": "Decay is a decrease in amount over time.",
+    "variations": [
+      "decay",
+      "decays"
+    ],
+    "emoji": "📉⏳",
+    "id": "gl133"
+  },
+  "decay constant": {
+    "word": "decay constant",
+    "definition": "The decay constant is a number that shows how quickly something decays.",
+    "variations": [
+      "decay constant",
+      "decay constants"
+    ],
+    "emoji": "📉🔢",
+    "id": "gl134"
+  },
+  "decibel": {
+    "word": "decibel",
+    "definition": "A decibel is a unit used to measure sound level.",
+    "variations": [
+      "decibel",
+      "decibels",
+      "dB"
+    ],
+    "emoji": "🔊📐",
+    "id": "gl135"
+  },
+  "decimal numeral": {
+    "word": "decimal numeral",
+    "definition": "A decimal numeral is a number written in ordinary decimal form.",
+    "variations": [
+      "decimal numeral",
+      "decimal numerals"
+    ],
+    "emoji": "🔢📝",
+    "id": "gl136"
+  },
+  "decimal place": {
+    "word": "decimal place",
+    "definition": "A decimal place is the position of a digit to the right of the decimal point.",
+    "variations": [
+      "decimal place",
+      "decimal places"
+    ],
+    "emoji": "🔢📍",
+    "id": "gl137"
+  },
+  "decimal point": {
+    "word": "decimal point",
+    "definition": "The decimal point separates the whole-number part from the fractional part of a number.",
+    "variations": [
+      "decimal point",
+      "decimal points"
+    ],
+    "emoji": "🔘🔢",
+    "id": "gl138"
+  },
+  "deduce": {
+    "word": "deduce",
+    "definition": "to reach a conclusion by using facts or reasoning",
+    "variations": [
+      "deduce",
+      "deduced",
+      "deduces",
+      "deducing",
+      "deduction"
+    ],
+    "emoji": "🧠🧩",
+    "id": "gl139"
+  },
+  "degree": {
+    "word": "degree",
+    "definition": "The highest exponent of a variable in an expression.",
+    "variations": [
+      "degree",
+      "degrees"
+    ],
+    "emoji": "🔢📘",
+    "id": "gl140"
+  },
+  "degrees": {
+    "word": "degrees",
+    "definition": "A unit used to measure angles.",
+    "variations": [
+      "degree",
+      "degrees",
+      "°"
+    ],
+    "emoji": "📐🔢",
+    "id": "gl141"
+  },
+  "denominator": {
+    "word": "denominator",
+    "definition": "The denominator is the bottom number in a fraction.",
+    "variations": [
+      "denominator",
+      "denominators"
+    ],
+    "emoji": "🔽➗",
+    "id": "gl142"
+  },
+  "denote": {
+    "word": "denote",
+    "definition": "To represent something using a sign or symbol.",
+    "variations": [
+      "denote",
+      "denoted",
+      "denotes",
+      "denoting"
+    ],
+    "emoji": "🔣✍️",
+    "id": "gl143"
+  },
+  "depression": {
+    "word": "depression",
+    "definition": "The angle measured downward from a horizontal line of sight.",
+    "variations": [
+      "depression",
+      "angle of depression"
+    ],
+    "emoji": "⬇️📐",
+    "id": "gl144"
+  },
+  "descending": {
+    "word": "descending",
+    "definition": "Descending means moving downward or going to a lower level.",
+    "variations": [
+      "descending",
+      "descend",
+      "descends",
+      "descended"
+    ],
+    "emoji": "⬇️✈️",
+    "id": "gl145"
+  },
+  "design": {
+    "word": "design",
+    "definition": "A plan or drawing used to show how something will be made.",
+    "variations": [
+      "design",
+      "designs"
+    ],
+    "emoji": "✏️📐",
+    "id": "gl146"
+  },
+  "Desmos": {
+    "word": "Desmos",
+    "definition": "A digital math tool often used for graphing and exploring mathematical ideas.",
+    "variations": [
+      "Desmos"
+    ],
+    "emoji": "💻📈",
+    "id": "gl147"
+  },
+  "determine": {
+    "word": "determine",
+    "definition": "To determine means to find or work out an answer.",
+    "variations": [
+      "determine",
+      "determines",
+      "determined",
+      "determining"
+    ],
+    "emoji": "🔍✅",
+    "id": "gl148"
+  },
+  "diagonal": {
+    "word": "diagonal",
+    "definition": "A line segment joining two non-adjacent corners of a shape.",
+    "variations": [
+      "diagonal",
+      "diagonals"
+    ],
+    "emoji": "📏↗️",
+    "id": "gl149"
+  },
+  "diagram": {
+    "word": "diagram",
+    "definition": "A drawing used to explain or represent a mathematical idea or problem.",
+    "variations": [
+      "diagram",
+      "diagrams"
+    ],
+    "emoji": "🖼️📐",
+    "id": "gl150"
+  },
+  "diameter": {
+    "word": "diameter",
+    "definition": "the distance across a circle through its center",
+    "variations": [
+      "diameters"
+    ],
+    "emoji": "⭕📏",
+    "id": "gl151"
+  },
+  "diesel": {
+    "word": "diesel",
+    "definition": "a type of fuel used in some engines",
+    "variations": [
+      "diesels"
+    ],
+    "emoji": "⛽🚗",
+    "id": "gl152"
+  },
+  "difference": {
+    "word": "difference",
+    "definition": "The result of subtraction.",
+    "variations": [
+      "difference",
+      "differences"
+    ],
+    "emoji": "➖🔢",
+    "id": "gl153"
+  },
+  "difference of two squares": {
+    "word": "difference of two squares",
+    "definition": "a pattern where one square is subtracted from another, such as x² - 9, and it factorizes as (x + 3)(x - 3)",
+    "variations": [
+      "difference of two squares"
+    ],
+    "emoji": "➖²",
+    "id": "gl154"
+  },
+  "dimensions": {
+    "word": "dimensions",
+    "definition": "The measurements of an object, such as length and width.",
+    "variations": [
+      "dimension",
+      "dimensions"
+    ],
+    "emoji": "📏📐",
+    "id": "gl155"
+  },
+  "direct proportion": {
+    "word": "direct proportion",
+    "definition": "A relationship where one quantity increases or decreases at the same rate as another quantity.",
+    "variations": [
+      "direct proportion",
+      "direct proportions",
+      "directly proportional"
+    ],
+    "emoji": "📈↔️",
+    "id": "gl156"
+  },
+  "direct variation": {
+    "word": "direct variation",
+    "definition": "a relationship where two variables change together in the same direction at a constant rate",
+    "variations": [
+      "direct variations",
+      "directly proportional"
+    ],
+    "emoji": "📈🤝",
+    "id": "gl157"
+  },
+  "direction": {
+    "word": "direction",
+    "definition": "the way something moves or points, such as north, south, east, or west",
+    "variations": [
+      "direction",
+      "directions"
+    ],
+    "emoji": "🧭➡️",
+    "id": "gl158"
+  },
+  "directly proportional": {
+    "word": "directly proportional",
+    "definition": "having a relationship where one quantity equals a constant times another quantity",
+    "variations": [
+      "direct proportion",
+      "directly proportionate"
+    ],
+    "emoji": "📈⚖️",
+    "id": "gl159"
+  },
+  "discriminant": {
+    "word": "discriminant",
+    "definition": "the part b² - 4ac in the quadratic formula that helps determine the nature of the solutions",
+    "variations": [
+      "discriminant",
+      "discriminants"
+    ],
+    "emoji": "🔍√",
+    "id": "gl160"
+  },
+  "disjoint sets": {
+    "word": "disjoint sets",
+    "definition": "Sets that have no elements in common.",
+    "variations": [
+      "disjoint set",
+      "disjoint sets"
+    ],
+    "emoji": "🚫🤝",
+    "id": "gl161"
+  },
+  "distance": {
+    "word": "distance",
+    "definition": "the amount of space between two points",
+    "variations": [
+      "distance",
+      "distances"
+    ],
+    "emoji": "📏↔️",
+    "id": "gl162"
+  },
+  "distinct": {
+    "word": "distinct",
+    "definition": "Different from each other; not repeated.",
+    "variations": [
+      "distinct",
+      "distinctly"
+    ],
+    "emoji": "✨≠",
+    "id": "gl163"
+  },
+  "distinct elements": {
+    "word": "distinct elements",
+    "definition": "Distinct elements are different items in a set, with no repeats counted twice.",
+    "variations": [
+      "distinct element",
+      "distinct elements"
+    ],
+    "emoji": "🔢✨",
+    "id": "gl164"
+  },
+  "distributive property": {
+    "word": "distributive property",
+    "definition": "A rule that allows multiplication across addition or subtraction, such as a(b + c) = ab + ac.",
+    "variations": [
+      "distributive property"
+    ],
+    "emoji": "➗🧠",
+    "id": "gl165"
+  },
+  "dividend": {
+    "word": "dividend",
+    "definition": "The dividend is the number or expression that is being divided.",
+    "variations": [
+      "dividend",
+      "dividends"
+    ],
+    "emoji": "📤➗",
+    "id": "gl166"
+  },
+  "division": {
+    "word": "division",
+    "definition": "The operation of splitting into equal parts or groups.",
+    "variations": [
+      "division",
+      "divide",
+      "divided"
+    ],
+    "emoji": "➗",
+    "id": "gl167"
+  },
+  "division law of exponents": {
+    "word": "division law of exponents",
+    "definition": "This law says that when powers with the same base are divided, you subtract the exponents.",
+    "variations": [
+      "division law of exponents",
+      "division law"
+    ],
+    "emoji": "➗⬆️",
+    "id": "gl168"
+  },
+  "division of radicals": {
+    "word": "division of radicals",
+    "definition": "Dividing one radical by another, often by combining them under one radical when they have the same index.",
+    "variations": [
+      "division of radicals"
+    ],
+    "emoji": "➗√",
+    "id": "gl169"
+  },
+  "divisor": {
+    "word": "divisor",
+    "definition": "The divisor is the number or expression you divide by.",
+    "variations": [
+      "divisor",
+      "divisors"
+    ],
+    "emoji": "➗📥",
+    "id": "gl170"
+  },
+  "due east": {
+    "word": "due east",
+    "definition": "exactly toward the east direction",
+    "variations": [
+      "due east"
+    ],
+    "emoji": "🧭➡️",
+    "id": "gl171"
+  },
+  "due west": {
+    "word": "due west",
+    "definition": "exactly toward the west direction",
+    "variations": [
+      "due west"
+    ],
+    "emoji": "🧭⬅️",
+    "id": "gl172"
+  },
+  "e-library": {
+    "word": "e-library",
+    "definition": "An e-library is a digital library that can be accessed online.",
+    "variations": [
+      "e-library",
+      "e-libraries"
+    ],
+    "emoji": "💻📚",
+    "id": "gl173"
+  },
+  "earnings": {
+    "word": "earnings",
+    "definition": "money received from work",
+    "variations": [
+      "earning"
+    ],
+    "emoji": "💰💼",
+    "id": "gl174"
+  },
+  "earthquake": {
+    "word": "earthquake",
+    "definition": "An earthquake is a sudden shaking of the ground caused by movements in the Earth.",
+    "variations": [
+      "earthquake",
+      "earthquakes"
+    ],
+    "emoji": "🌍震",
+    "id": "gl175"
+  },
+  "east": {
+    "word": "east",
+    "definition": "one of the main compass directions",
+    "variations": [
+      "east"
+    ],
+    "emoji": "🧭➡️",
+    "id": "gl176"
+  },
+  "edition": {
+    "word": "edition",
+    "definition": "An edition is a particular version of a book, often revised or updated.",
+    "variations": [
+      "edition",
+      "editions"
+    ],
+    "emoji": "📘🆕",
+    "id": "gl177"
+  },
+  "efficiency rating": {
+    "word": "efficiency rating",
+    "definition": "A measure showing how well a system works without wasting energy.",
+    "variations": [
+      "efficiency rating",
+      "efficiency ratings"
+    ],
+    "emoji": "⚙️✅",
+    "id": "gl178"
+  },
+  "electronic": {
+    "word": "electronic",
+    "definition": "Electronic means using electricity or computer technology.",
+    "variations": [
+      "electronic",
+      "electronics"
+    ],
+    "emoji": "💻⚡",
+    "id": "gl179"
+  },
+  "element": {
+    "word": "element",
+    "definition": "An item or member that belongs to a set.",
+    "variations": [
+      "element",
+      "elements",
+      "member",
+      "members"
+    ],
+    "emoji": "🔹📍",
+    "id": "gl180"
+  },
+  "elevation": {
+    "word": "elevation",
+    "definition": "The angle measured upward from a horizontal line of sight.",
+    "variations": [
+      "elevation",
+      "angle of elevation"
+    ],
+    "emoji": "⬆️📐",
+    "id": "gl181"
+  },
+  "ellipsis": {
+    "word": "ellipsis",
+    "definition": "The symbol dots (...) used to show that a pattern continues.",
+    "variations": [
+      "ellipsis",
+      "ellipses"
+    ],
+    "emoji": "…➡️",
+    "id": "gl182"
+  },
+  "employee": {
+    "word": "employee",
+    "definition": "a person who works for someone or for a company",
+    "variations": [
+      "employees"
+    ],
+    "emoji": "👷💼",
+    "id": "gl183"
+  },
+  "empty set": {
+    "word": "empty set",
+    "definition": "A set with no elements.",
+    "variations": [
+      "empty set",
+      "empty sets"
+    ],
+    "emoji": "🈳∅",
+    "id": "gl184"
+  },
+  "energy released": {
+    "word": "energy released",
+    "definition": "Energy released is the amount of energy given out during an event or process.",
+    "variations": [
+      "energy released"
+    ],
+    "emoji": "⚡🌍",
+    "id": "gl185"
+  },
+  "engineering": {
+    "word": "engineering",
+    "definition": "The use of science and mathematics to design and build things.",
+    "variations": [
+      "engineering"
+    ],
+    "emoji": "⚙️🏗️",
+    "id": "gl186"
+  },
+  "English alphabet": {
+    "word": "English alphabet",
+    "definition": "The set of letters used in English, from A to Z.",
+    "variations": [
+      "English alphabet",
+      "English alphabets"
+    ],
+    "emoji": "🔤🇬🇧",
+    "id": "gl187"
+  },
+  "enlarge": {
+    "word": "enlarge",
+    "definition": "To make something bigger while keeping its shape.",
+    "variations": [
+      "enlarge",
+      "enlarges",
+      "enlarged",
+      "enlarging"
+    ],
+    "emoji": "🔍⬆️",
+    "id": "gl188"
+  },
+  "equal angles": {
+    "word": "equal angles",
+    "definition": "Angles that have the same measure.",
+    "variations": [
+      "equal angle",
+      "equal angles"
+    ],
+    "emoji": "📐✅",
+    "id": "gl189"
+  },
+  "equal corresponding angles": {
+    "word": "equal corresponding angles",
+    "definition": "Matching angles in similar or congruent figures that have the same measure.",
+    "variations": [
+      "equal corresponding angle",
+      "equal corresponding angles"
+    ],
+    "emoji": "📐🟰",
+    "id": "gl190"
+  },
+  "equal sets": {
+    "word": "equal sets",
+    "definition": "Sets that contain exactly the same elements, no matter the order.",
+    "variations": [
+      "equal set",
+      "equal sets"
+    ],
+    "emoji": "🟰📦",
+    "id": "gl191"
+  },
+  "equate": {
+    "word": "equate",
+    "definition": "To equate means to set two things equal and compare their matching parts.",
+    "variations": [
+      "equate",
+      "equated",
+      "equating"
+    ],
+    "emoji": "🟰↔️",
+    "id": "gl192"
+  },
+  "equation": {
+    "word": "equation",
+    "definition": "A mathematical statement showing that two expressions are equal.",
+    "variations": [
+      "equation",
+      "equations"
+    ],
+    "emoji": "🟰📐",
+    "id": "gl193"
+  },
+  "equiangular polygon": {
+    "word": "equiangular polygon",
+    "definition": "A polygon in which all interior angles are equal.",
+    "variations": [
+      "equiangular polygons"
+    ],
+    "emoji": "🔷📐",
+    "id": "gl194"
+  },
+  "equidistant": {
+    "word": "equidistant",
+    "definition": "At the same distance from two or more points, lines, or objects.",
+    "variations": [
+      "equidistant"
+    ],
+    "emoji": "↔️📏",
+    "id": "gl195"
+  },
+  "equilateral triangle": {
+    "word": "equilateral triangle",
+    "definition": "A triangle with all sides equal and all angles equal.",
+    "variations": [
+      "equilateral triangle",
+      "equilateral triangles"
+    ],
+    "emoji": "🔺🟰",
+    "id": "gl196"
+  },
+  "equivalent": {
+    "word": "equivalent",
+    "definition": "Equivalent means equal in value, amount, or meaning.",
+    "variations": [
+      "equivalent",
+      "equivalents"
+    ],
+    "emoji": "🟰⚖️",
+    "id": "gl197"
+  },
+  "equivalent sets": {
+    "word": "equivalent sets",
+    "definition": "Sets that have the same number of elements.",
+    "variations": [
+      "equivalent set",
+      "equivalent sets"
+    ],
+    "emoji": "⚖️🔢",
+    "id": "gl198"
+  },
+  "euro": {
+    "word": "euro",
+    "definition": "the money used by many countries in Europe",
+    "variations": [
+      "euros"
+    ],
+    "emoji": "💶🇪🇺",
+    "id": "gl199"
+  },
+  "evaluate": {
+    "word": "evaluate",
+    "definition": "To evaluate means to find the value of a number or expression.",
+    "variations": [
+      "evaluate",
+      "evaluated",
+      "evaluating",
+      "evaluation"
+    ],
+    "emoji": "✅🧮",
+    "id": "gl200"
+  },
+  "even numbers": {
+    "word": "even numbers",
+    "definition": "Numbers that can be divided by 2 without a remainder.",
+    "variations": [
+      "even number",
+      "even numbers"
+    ],
+    "emoji": "2️⃣⚖️",
+    "id": "gl201"
+  },
+  "exact value": {
+    "word": "exact value",
+    "definition": "An exact value is the precise answer, not an estimate or rounded number.",
+    "variations": [
+      "exact value",
+      "exact values"
+    ],
+    "emoji": "🎯✅",
+    "id": "gl202"
+  },
+  "exchange fee": {
+    "word": "exchange fee",
+    "definition": "money charged for changing one currency into another",
+    "variations": [
+      "exchange fees"
+    ],
+    "emoji": "💱🧾",
+    "id": "gl203"
+  },
+  "exchange rate": {
+    "word": "exchange rate",
+    "definition": "the value of one currency compared to another currency",
+    "variations": [
+      "exchange rates"
+    ],
+    "emoji": "💱📈",
+    "id": "gl204"
+  },
+  "exercise": {
+    "word": "exercise",
+    "definition": "An exercise is a question or task for practice.",
+    "variations": [
+      "exercise",
+      "exercises"
+    ],
+    "emoji": "✏️🧠",
+    "id": "gl205"
+  },
+  "expand": {
+    "word": "expand",
+    "definition": "To multiply out brackets in an algebraic expression to get a simpler form without brackets.",
+    "variations": [
+      "expand",
+      "expands",
+      "expanded",
+      "expanding"
+    ],
+    "emoji": "↔️🔣",
+    "id": "gl206"
+  },
+  "expanded form": {
+    "word": "expanded form",
+    "definition": "Expanded form shows a power as repeated multiplication, such as 3^4 written as 3 × 3 × 3 × 3.",
+    "variations": [
+      "expanded form",
+      "expanded forms"
+    ],
+    "emoji": "📖✖️",
+    "id": "gl207"
+  },
+  "exponent": {
+    "word": "exponent",
+    "definition": "The exponent tells how many times the base is multiplied by itself.",
+    "variations": [
+      "exponent",
+      "exponents"
+    ],
+    "emoji": "⬆️🔣",
+    "id": "gl208"
+  },
+  "exponential equation": {
+    "word": "exponential equation",
+    "definition": "An exponential equation is an equation that contains exponents.",
+    "variations": [
+      "exponential equation",
+      "exponential equations"
+    ],
+    "emoji": "🟰⬆️",
+    "id": "gl209"
+  },
+  "exponential form": {
+    "word": "exponential form",
+    "definition": "Exponential form is a way of writing a number or expression using a base raised to an exponent.",
+    "variations": [
+      "exponential form",
+      "exponential forms"
+    ],
+    "emoji": "📘⬆️",
+    "id": "gl210"
+  },
+  "exponential growth": {
+    "word": "exponential growth",
+    "definition": "Exponential growth is a rapid increase where the amount grows by the same factor over equal time steps.",
+    "variations": [
+      "exponential growth"
+    ],
+    "emoji": "📈⬆️",
+    "id": "gl211"
+  },
+  "exponential number": {
+    "word": "exponential number",
+    "definition": "An exponential number is a number written using a base and an exponent, such as 7^2.",
+    "variations": [
+      "exponential number",
+      "exponential numbers"
+    ],
+    "emoji": "🔢📐",
+    "id": "gl212"
+  },
+  "exponential relationship": {
+    "word": "exponential relationship",
+    "definition": "A relationship where one quantity changes by repeated multiplication, not by equal addition.",
+    "variations": [
+      "exponential relationship",
+      "exponential relationships"
+    ],
+    "emoji": "📈⬆️",
+    "id": "gl213"
+  },
+  "expression": {
+    "word": "expression",
+    "definition": "A mathematical phrase made of numbers, letters, and operation signs, but without an equals sign.",
+    "variations": [
+      "expression",
+      "expressions"
+    ],
+    "emoji": "🔣🧮",
+    "id": "gl214"
+  },
+  "extend": {
+    "word": "extend",
+    "definition": "To continue a line or side farther in the same direction.",
+    "variations": [
+      "extend",
+      "extended",
+      "extending",
+      "extension"
+    ],
+    "emoji": "📏➡️",
+    "id": "gl215"
+  },
+  "exterior angle": {
+    "word": "exterior angle",
+    "definition": "An angle formed outside a polygon by extending one of its sides.",
+    "variations": [
+      "exterior angle",
+      "exterior angles"
+    ],
+    "emoji": "📐↗️",
+    "id": "gl216"
+  },
+  "factor": {
+    "word": "factor",
+    "definition": "a number or expression that is multiplied by another to make a product",
+    "variations": [
+      "factor",
+      "factors"
+    ],
+    "emoji": "🔢✖️",
+    "id": "gl217"
+  },
+  "factorisation": {
+    "word": "factorisation",
+    "definition": "the process of writing an expression as a product of two or more factors",
+    "variations": [
+      "factorisation",
+      "factorization"
+    ],
+    "emoji": "🧩✂️",
+    "id": "gl218"
+  },
+  "factorise": {
+    "word": "factorise",
+    "definition": "To write an expression as a product of simpler expressions or factors.",
+    "variations": [
+      "factorise",
+      "factorises",
+      "factorised",
+      "factorising",
+      "factorize",
+      "factorized",
+      "factorizing"
+    ],
+    "emoji": "🧩✖️",
+    "id": "gl219"
+  },
+  "factorize": {
+    "word": "factorize",
+    "definition": "to rewrite an expression as a product of simpler expressions called factors",
+    "variations": [
+      "factorize",
+      "factorized",
+      "factorizing",
+      "factorisation",
+      "factorization"
+    ],
+    "emoji": "✂️🧩",
+    "id": "gl220"
+  },
+  "fifth root": {
+    "word": "fifth root",
+    "definition": "A number that gives the original number when multiplied by itself five times.",
+    "variations": [
+      "fifth root",
+      "fifth roots"
+    ],
+    "emoji": "⁵√🌱",
+    "id": "gl221"
+  },
+  "figure": {
+    "word": "figure",
+    "definition": "A shape or diagram used in mathematics.",
+    "variations": [
+      "figure",
+      "figures"
+    ],
+    "emoji": "🖼️📐",
+    "id": "gl222"
+  },
+  "final amount": {
+    "word": "final amount",
+    "definition": "The final amount is the total money after interest has been added.",
+    "variations": [
+      "final amount",
+      "final amounts"
+    ],
+    "emoji": "💰✅",
+    "id": "gl223"
+  },
+  "financial decision": {
+    "word": "financial decision",
+    "definition": "a choice about money, spending, saving, or exchanging value",
+    "variations": [
+      "financial decisions"
+    ],
+    "emoji": "💰🧾",
+    "id": "gl224"
+  },
+  "finite set": {
+    "word": "finite set",
+    "definition": "A set with a countable and limited number of elements.",
+    "variations": [
+      "finite set",
+      "finite sets"
+    ],
+    "emoji": "🔢🛑",
+    "id": "gl225"
+  },
+  "first quadrant": {
+    "word": "first quadrant",
+    "definition": "the top-right part of the coordinate plane where x and y are both positive",
+    "variations": [
+      "first quadrant"
+    ],
+    "emoji": "1️⃣📊",
+    "id": "gl226"
+  },
+  "flag post": {
+    "word": "flag post",
+    "definition": "a pole used for flying a flag",
+    "variations": [
+      "flag post",
+      "flag posts",
+      "flagpole",
+      "flagpoles"
+    ],
+    "emoji": "🚩🪵",
+    "id": "gl227"
+  },
+  "flagpole": {
+    "word": "flagpole",
+    "definition": "a tall pole on which a flag is raised",
+    "variations": [
+      "flagpole",
+      "flagpoles"
+    ],
+    "emoji": "🚩📏",
+    "id": "gl228"
+  },
+  "floor": {
+    "word": "floor",
+    "definition": "the lower surface of a room that people walk on",
+    "variations": [
+      "floor",
+      "floors"
+    ],
+    "emoji": "🟫",
+    "id": "gl229"
+  },
+  "flow rate": {
+    "word": "flow rate",
+    "definition": "The volume of a liquid or gas moving in a certain amount of time.",
+    "variations": [
+      "flow rate",
+      "flow rates"
+    ],
+    "emoji": "💧⏱️",
+    "id": "gl230"
+  },
+  "foot of the perpendicular": {
+    "word": "foot of the perpendicular",
+    "definition": "The point where a perpendicular line meets another line.",
+    "variations": [
+      "foot of the perpendicular",
+      "feet of the perpendicular",
+      "feet of the perpendiculars"
+    ],
+    "emoji": "⟂📍",
+    "id": "gl231"
+  },
+  "formula": {
+    "word": "formula",
+    "definition": "A rule written with symbols and numbers to describe a set or a mathematical relationship.",
+    "variations": [
+      "formula",
+      "formulas",
+      "formulae"
+    ],
+    "emoji": "🧮📐",
+    "id": "gl232"
+  },
+  "fourth quadrant": {
+    "word": "fourth quadrant",
+    "definition": "the bottom-right part of the coordinate plane where x is positive and y is negative",
+    "variations": [
+      "fourth quadrant"
+    ],
+    "emoji": "4️⃣📊",
+    "id": "gl233"
+  },
+  "fourth root": {
+    "word": "fourth root",
+    "definition": "A number that gives the original number when multiplied by itself four times.",
+    "variations": [
+      "fourth root",
+      "fourth roots"
+    ],
+    "emoji": "⁴√🌱",
+    "id": "gl234"
+  },
+  "fraction": {
+    "word": "fraction",
+    "definition": "A number written as one quantity over another.",
+    "variations": [
+      "fraction",
+      "fractions"
+    ],
+    "emoji": "➗🔢",
+    "id": "gl235"
+  },
+  "fractional exponent": {
+    "word": "fractional exponent",
+    "definition": "An exponent written as a fraction. It represents a root, such as x^(1/2), which means the square root of x.",
+    "variations": [
+      "fractional exponent",
+      "fractional exponents"
+    ],
+    "emoji": "➗⬆️",
+    "id": "gl236"
+  },
+  "fuel consumption rate": {
+    "word": "fuel consumption rate",
+    "definition": "The amount of fuel used over a certain distance or time.",
+    "variations": [
+      "fuel consumption rate",
+      "fuel consumption rates"
+    ],
+    "emoji": "⛽🚛",
+    "id": "gl237"
+  },
+  "fuel efficiency": {
+    "word": "fuel efficiency",
+    "definition": "Fuel efficiency shows how far a vehicle can travel using a certain amount of fuel.",
+    "variations": [
+      "fuel efficiency"
+    ],
+    "emoji": "⛽🚗",
+    "id": "gl238"
+  },
+  "general form": {
+    "word": "general form",
+    "definition": "the usual standard way of writing something in algebra, such as ax² + bx + c = 0 for a quadratic equation",
+    "variations": [
+      "general form",
+      "standard form"
+    ],
+    "emoji": "📝📐",
+    "id": "gl239"
+  },
+  "GeoGebra": {
+    "word": "GeoGebra",
+    "definition": "A mathematics software tool used for geometry, algebra, and graphing.",
+    "variations": [
+      "GeoGebra"
+    ],
+    "emoji": "💻📐",
+    "id": "gl240"
+  },
+  "geometric shape": {
+    "word": "geometric shape",
+    "definition": "A figure in geometry, such as a triangle, rectangle, or circle.",
+    "variations": [
+      "geometric shape",
+      "geometric shapes"
+    ],
+    "emoji": "📐🔷",
+    "id": "gl241"
+  },
+  "geometrical software": {
+    "word": "geometrical software",
+    "definition": "A computer program used to draw and explore shapes and geometric ideas.",
+    "variations": [
+      "geometrical software",
+      "geometry software"
+    ],
+    "emoji": "💻📐",
+    "id": "gl242"
+  },
+  "global positioning system": {
+    "word": "global positioning system",
+    "definition": "A technology that uses satellites to determine location on Earth.",
+    "variations": [
+      "global positioning system",
+      "global positioning systems",
+      "GPS"
+    ],
+    "emoji": "🛰️🧭🌍",
+    "id": "gl243"
+  },
+  "glossary": {
+    "word": "glossary",
+    "definition": "A glossary is a list of important words with their meanings.",
+    "variations": [
+      "glossary",
+      "glossaries"
+    ],
+    "emoji": "📘📝",
+    "id": "gl244"
+  },
+  "gradient": {
+    "word": "gradient",
+    "definition": "the steepness of a line on a graph",
+    "variations": [
+      "gradients"
+    ],
+    "emoji": "📈📐",
+    "id": "gl245"
+  },
+  "graph": {
+    "word": "graph",
+    "definition": "a drawing that shows the relationship between values",
+    "variations": [
+      "graphs",
+      "graphed",
+      "graphing"
+    ],
+    "emoji": "📊🖉",
+    "id": "gl246"
+  },
+  "ground": {
+    "word": "ground",
+    "definition": "the surface of the earth used as a reference level in measurements",
+    "variations": [
+      "ground"
+    ],
+    "emoji": "🌍",
+    "id": "gl247"
+  },
+  "growth rate": {
+    "word": "growth rate",
+    "definition": "The growth rate shows how fast something increases over time.",
+    "variations": [
+      "growth rate",
+      "growth rates"
+    ],
+    "emoji": "📈⏱️",
+    "id": "gl248"
+  },
+  "heating cost": {
+    "word": "heating cost",
+    "definition": "The amount of money needed to heat a house or building.",
+    "variations": [
+      "heating cost",
+      "heating costs"
+    ],
+    "emoji": "🔥🏠",
+    "id": "gl249"
+  },
+  "height": {
+    "word": "height",
+    "definition": "how tall something is, measured from bottom to top",
+    "variations": [
+      "height",
+      "heights"
+    ],
+    "emoji": "📏⬆️",
+    "id": "gl250"
+  },
+  "hexagon": {
+    "word": "hexagon",
+    "definition": "A polygon with six sides.",
+    "variations": [
+      "hexagon",
+      "hexagons"
+    ],
+    "emoji": "⬡6️⃣",
+    "id": "gl251"
+  },
+  "hilltop": {
+    "word": "hilltop",
+    "definition": "the top of a hill",
+    "variations": [
+      "hilltop",
+      "hilltops"
+    ],
+    "emoji": "⛰️⬆️",
+    "id": "gl252"
+  },
+  "horizontal": {
+    "word": "horizontal",
+    "definition": "going straight from left to right",
+    "variations": [
+      "horizontal",
+      "horizontally"
+    ],
+    "emoji": "↔️📏",
+    "id": "gl253"
+  },
+  "horizontal level": {
+    "word": "horizontal level",
+    "definition": "a flat level line that goes straight across, not up or down",
+    "variations": [
+      "horizontal level",
+      "horizontal levels"
+    ],
+    "emoji": "↔️📏",
+    "id": "gl254"
+  },
+  "hour": {
+    "word": "hour",
+    "definition": "A unit of time equal to 60 minutes.",
+    "variations": [
+      "hour",
+      "hours",
+      "h"
+    ],
+    "emoji": "🕒",
+    "id": "gl255"
+  },
+  "house": {
+    "word": "house",
+    "definition": "a building where people live",
+    "variations": [
+      "house",
+      "houses"
+    ],
+    "emoji": "🏠",
+    "id": "gl256"
+  },
+  "household": {
+    "word": "household",
+    "definition": "All the people living together in one home, or one home considered as a unit.",
+    "variations": [
+      "household",
+      "households"
+    ],
+    "emoji": "🏠👨‍👩‍👧‍👦",
+    "id": "gl257"
+  },
+  "hydrogen ion concentration": {
+    "word": "hydrogen ion concentration",
+    "definition": "Hydrogen ion concentration is the amount of hydrogen ions present in a solution.",
+    "variations": [
+      "hydrogen ion concentration",
+      "hydrogen ions concentration",
+      "H+ concentration",
+      "[H+]"
+    ],
+    "emoji": "🧪⚗️",
+    "id": "gl258"
+  },
+  "hypotenuse": {
+    "word": "hypotenuse",
+    "definition": "The longest side of a right-angled triangle, opposite the right angle.",
+    "variations": [
+      "hypotenuse",
+      "hypotenuse side"
+    ],
+    "emoji": "📏🔺",
+    "id": "gl259"
+  },
+  "identical": {
+    "word": "identical",
+    "definition": "Exactly the same in every way.",
+    "variations": [
+      "identical"
+    ],
+    "emoji": "🟰✅",
+    "id": "gl260"
+  },
+  "identities": {
+    "word": "identities",
+    "definition": "Equations that are true for every value of the variable.",
+    "variations": [
+      "identity"
+    ],
+    "emoji": "🟰🔣",
+    "id": "gl261"
+  },
+  "identity": {
+    "word": "identity",
+    "definition": "an algebraic statement that is always true for all values of the variables, such as (a + b)² = a² + 2ab + b²",
+    "variations": [
+      "identity",
+      "identities"
+    ],
+    "emoji": "🟰📘",
+    "id": "gl262"
+  },
+  "illustration": {
+    "word": "illustration",
+    "definition": "An illustration is a picture or drawing used to explain or decorate a text.",
+    "variations": [
+      "illustration",
+      "illustrations"
+    ],
+    "emoji": "🖼️✏️",
+    "id": "gl263"
+  },
+  "improper subset": {
+    "word": "improper subset",
+    "definition": "A subset that is equal to the set itself.",
+    "variations": [
+      "improper subset",
+      "improper subsets"
+    ],
+    "emoji": "⊆🟰",
+    "id": "gl264"
+  },
+  "inclination": {
+    "word": "inclination",
+    "definition": "the angle of slope of a line or surface",
+    "variations": [
+      "inclination",
+      "inclinations"
+    ],
+    "emoji": "📐↗️",
+    "id": "gl265"
+  },
+  "inclined": {
+    "word": "inclined",
+    "definition": "sloping or tilted at an angle",
+    "variations": [
+      "inclined",
+      "incline",
+      "inclination"
+    ],
+    "emoji": "📐↗️",
+    "id": "gl266"
+  },
+  "included angle": {
+    "word": "included angle",
+    "definition": "The angle between two given sides.",
+    "variations": [
+      "included angle",
+      "included angles"
+    ],
+    "emoji": "📐📏",
+    "id": "gl267"
+  },
+  "included side": {
+    "word": "included side",
+    "definition": "The side that lies between two given angles in a figure.",
+    "variations": [
+      "included side",
+      "included sides"
+    ],
+    "emoji": "📏↔️",
+    "id": "gl268"
+  },
+  "index": {
+    "word": "index",
+    "definition": "The small number on a radical sign that shows which root is being taken.",
+    "variations": [
+      "index",
+      "indices"
+    ],
+    "emoji": "🔢√",
+    "id": "gl269"
+  },
+  "Indian rupee": {
+    "word": "Indian rupee",
+    "definition": "the official money used in India",
+    "variations": [
+      "Indian rupees",
+      "rupee",
+      "rupees"
+    ],
+    "emoji": "🇮🇳💸",
+    "id": "gl270"
+  },
+  "indicated base": {
+    "word": "indicated base",
+    "definition": "The indicated base is the specific base you are told to use when writing a number as a power.",
+    "variations": [
+      "indicated base",
+      "indicated bases"
+    ],
+    "emoji": "🎯🔢",
+    "id": "gl271"
+  },
+  "infinite set": {
+    "word": "infinite set",
+    "definition": "A set that goes on without end and does not have a final number of elements.",
+    "variations": [
+      "infinite set",
+      "infinite sets"
+    ],
+    "emoji": "♾️🔁",
+    "id": "gl272"
+  },
+  "insight": {
+    "word": "insight",
+    "definition": "A clear and useful understanding of something.",
+    "variations": [
+      "insight",
+      "insights"
+    ],
+    "emoji": "💡🧠",
+    "id": "gl273"
+  },
+  "integer": {
+    "word": "integer",
+    "definition": "A whole number that can be negative, zero, or positive.",
+    "variations": [
+      "integer",
+      "integers"
+    ],
+    "emoji": "➖0️⃣➕",
+    "id": "gl274"
+  },
+  "integers": {
+    "word": "integers",
+    "definition": "Whole numbers, their negatives, and zero.",
+    "variations": [
+      "integer",
+      "integers"
+    ],
+    "emoji": "➖0️⃣➕",
+    "id": "gl275"
+  },
+  "intensity": {
+    "word": "intensity",
+    "definition": "the strength or brightness of something, such as light",
+    "variations": [
+      "intensities"
+    ],
+    "emoji": "💡✨",
+    "id": "gl276"
+  },
+  "interdependent": {
+    "word": "interdependent",
+    "definition": "Interdependent means connected in such a way that a change in one thing affects another.",
+    "variations": [
+      "interdependent",
+      "interdependence"
+    ],
+    "emoji": "🔗↔️",
+    "id": "gl277"
+  },
+  "interior angle": {
+    "word": "interior angle",
+    "definition": "An angle inside a shape, especially inside a polygon.",
+    "variations": [
+      "interior angle",
+      "interior angles"
+    ],
+    "emoji": "📐🔺",
+    "id": "gl278"
+  },
+  "interior angles": {
+    "word": "interior angles",
+    "definition": "Angles formed inside a shape.",
+    "variations": [
+      "interior angle",
+      "interior angles"
+    ],
+    "emoji": "📐🏠",
+    "id": "gl279"
+  },
+  "intersect": {
+    "word": "intersect",
+    "definition": "To cross at a point.",
+    "variations": [
+      "intersect",
+      "intersects",
+      "intersected",
+      "intersection"
+    ],
+    "emoji": "✖️📍",
+    "id": "gl280"
+  },
+  "intersecting lines": {
+    "word": "intersecting lines",
+    "definition": "Lines that cross each other at a point.",
+    "variations": [
+      "intersecting line",
+      "intersecting lines"
+    ],
+    "emoji": "❌📏",
+    "id": "gl281"
+  },
+  "intersection": {
+    "word": "intersection",
+    "definition": "The set of elements that are common to two or more sets.",
+    "variations": [
+      "intersection",
+      "intersections"
+    ],
+    "emoji": "∩🤝",
+    "id": "gl282"
+  },
+  "inverse process": {
+    "word": "inverse process",
+    "definition": "An inverse process is an action that reverses another action.",
+    "variations": [
+      "inverse process",
+      "inverse processes"
+    ],
+    "emoji": "↔️🔁",
+    "id": "gl283"
+  },
+  "inverse proportion": {
+    "word": "inverse proportion",
+    "definition": "A relationship where one quantity increases while the other decreases so that their product stays the same.",
+    "variations": [
+      "inverse proportion",
+      "inverse proportions",
+      "inversely proportional"
+    ],
+    "emoji": "🔄📉",
+    "id": "gl284"
+  },
+  "inverse relationship": {
+    "word": "inverse relationship",
+    "definition": "a relationship where one quantity goes up while the other goes down",
+    "variations": [
+      "inverse relationships"
+    ],
+    "emoji": "📉↕️",
+    "id": "gl285"
+  },
+  "inverse tangent": {
+    "word": "inverse tangent",
+    "definition": "the operation used to find an angle when the tangent value is known",
+    "variations": [
+      "inverse tangent",
+      "tan^-1",
+      "arctangent"
+    ],
+    "emoji": "🔁📐",
+    "id": "gl286"
+  },
+  "inverse trigonometric function": {
+    "word": "inverse trigonometric function",
+    "definition": "a function that gives the angle when a trigonometric ratio is known",
+    "variations": [
+      "inverse trigonometric function",
+      "inverse trigonometric functions",
+      "inverse trigonometric ratio",
+      "inverse trigonometric ratios"
+    ],
+    "emoji": "↩️📐",
+    "id": "gl287"
+  },
+  "inverse variation": {
+    "word": "inverse variation",
+    "definition": "a relationship where one variable increases while the other decreases",
+    "variations": [
+      "inverse variations",
+      "inverse proportion",
+      "indirect proportion",
+      "inversely proportional"
+    ],
+    "emoji": "📉↔️",
+    "id": "gl288"
+  },
+  "iron rod": {
+    "word": "iron rod",
+    "definition": "a straight bar made of iron",
+    "variations": [
+      "iron rod",
+      "iron rods"
+    ],
+    "emoji": "🪨📏",
+    "id": "gl289"
+  },
+  "ISBN": {
+    "word": "ISBN",
+    "definition": "ISBN is a unique number used to identify a published book.",
+    "variations": [
+      "ISBN",
+      "ISBNs"
+    ],
+    "emoji": "🔢📖",
+    "id": "gl290"
+  },
+  "isosceles triangle": {
+    "word": "isosceles triangle",
+    "definition": "A triangle with two equal sides.",
+    "variations": [
+      "isosceles triangle",
+      "isosceles triangles"
+    ],
+    "emoji": "🔺⚖️",
+    "id": "gl291"
+  },
+  "John Venn": {
+    "word": "John Venn",
+    "definition": "The British mathematician after whom Venn diagrams are named.",
+    "variations": [
+      "John Venn"
+    ],
+    "emoji": "👨‍🏫⭕",
+    "id": "gl292"
+  },
+  "joint sets": {
+    "word": "joint sets",
+    "definition": "Sets that have at least one common element.",
+    "variations": [
+      "joint set",
+      "joint sets"
+    ],
+    "emoji": "🤝🔗",
+    "id": "gl293"
+  },
+  "joint variation": {
+    "word": "joint variation",
+    "definition": "a relationship where one variable depends on the product of two or more other variables",
+    "variations": [
+      "joint variations",
+      "varies jointly"
+    ],
+    "emoji": "🔗✖️",
+    "id": "gl294"
+  },
+  "Joule": {
+    "word": "Joule",
+    "definition": "A joule is a unit used to measure energy.",
+    "variations": [
+      "Joule",
+      "Joules",
+      "joule",
+      "joules"
+    ],
+    "emoji": "⚡📏",
+    "id": "gl295"
+  },
+  "justify": {
+    "word": "justify",
+    "definition": "to give reasons or evidence to show that something is correct",
+    "variations": [
+      "justify",
+      "justifies",
+      "justified",
+      "justifying",
+      "justification"
+    ],
+    "emoji": "✅🗣️",
+    "id": "gl296"
+  },
+  "Kenyan shilling": {
+    "word": "Kenyan shilling",
+    "definition": "the official money used in Kenya",
+    "variations": [
+      "Kenyan shillings"
+    ],
+    "emoji": "🇰🇪💵",
+    "id": "gl297"
+  },
+  "kilometre": {
+    "word": "kilometre",
+    "definition": "a unit of distance equal to 1,000 metres",
+    "variations": [
+      "kilometres",
+      "km"
+    ],
+    "emoji": "📏🛣️",
+    "id": "gl298"
+  },
+  "ladder": {
+    "word": "ladder",
+    "definition": "a structure with steps or rungs used for climbing",
+    "variations": [
+      "ladder",
+      "ladders"
+    ],
+    "emoji": "🪜",
+    "id": "gl299"
+  },
+  "law of exponents": {
+    "word": "law of exponents",
+    "definition": "A rule that explains how powers work when numbers are multiplied, divided, or raised again.",
+    "variations": [
+      "law of exponents",
+      "laws of exponents",
+      "exponent law",
+      "exponent laws"
+    ],
+    "emoji": "🔢⬆️",
+    "id": "gl300"
+  },
+  "laws of exponents": {
+    "word": "laws of exponents",
+    "definition": "The laws of exponents are rules for simplifying expressions with powers.",
+    "variations": [
+      "law of exponents",
+      "laws of exponents"
+    ],
+    "emoji": "📘📏",
+    "id": "gl301"
+  },
+  "laws of logarithms": {
+    "word": "laws of logarithms",
+    "definition": "The laws of logarithms are rules used to simplify and combine logarithmic expressions.",
+    "variations": [
+      "law of logarithms",
+      "laws of logarithms",
+      "logarithm rules"
+    ],
+    "emoji": "📘📏",
+    "id": "gl302"
+  },
+  "left-hand side": {
+    "word": "left-hand side",
+    "definition": "the part of an equation that is written to the left of the equals sign",
+    "variations": [
+      "left-hand side",
+      "LHS"
+    ],
+    "emoji": "⬅️🟰",
+    "id": "gl303"
+  },
+  "length": {
+    "word": "length",
+    "definition": "How long something is from one end to the other.",
+    "variations": [
+      "length",
+      "lengths"
+    ],
+    "emoji": "📏",
+    "id": "gl304"
+  },
+  "level ground": {
+    "word": "level ground",
+    "definition": "ground that is flat and not sloping",
+    "variations": [
+      "level ground"
+    ],
+    "emoji": "🌍↔️",
+    "id": "gl305"
+  },
+  "light source": {
+    "word": "light source",
+    "definition": "something that produces light",
+    "variations": [
+      "light sources"
+    ],
+    "emoji": "💡🔦",
+    "id": "gl306"
+  },
+  "like radicals": {
+    "word": "like radicals",
+    "definition": "Radicals that have the same index and the same radicand, so they can be added or subtracted.",
+    "variations": [
+      "like radical",
+      "like radicals"
+    ],
+    "emoji": "🤝√",
+    "id": "gl307"
+  },
+  "line": {
+    "word": "line",
+    "definition": "A straight path that extends endlessly in both directions.",
+    "variations": [
+      "line",
+      "lines"
+    ],
+    "emoji": "📏",
+    "id": "gl308"
+  },
+  "line of sight": {
+    "word": "line of sight",
+    "definition": "the straight line from your eye to the object you are looking at",
+    "variations": [
+      "line of sight",
+      "lines of sight"
+    ],
+    "emoji": "👁️📏",
+    "id": "gl309"
+  },
+  "line segment": {
+    "word": "line segment",
+    "definition": "A part of a line with two endpoints.",
+    "variations": [
+      "line segment",
+      "line segments"
+    ],
+    "emoji": "📏",
+    "id": "gl310"
+  },
+  "linear expressions": {
+    "word": "linear expressions",
+    "definition": "Expressions in which the variable has power 1 only.",
+    "variations": [
+      "linear expression"
+    ],
+    "emoji": "📏🔣",
+    "id": "gl311"
+  },
+  "linear factor": {
+    "word": "linear factor",
+    "definition": "a factor of degree 1, such as x + 4 or 2x - 1",
+    "variations": [
+      "linear factor",
+      "linear factors"
+    ],
+    "emoji": "📏✖️",
+    "id": "gl312"
+  },
+  "linear factors": {
+    "word": "linear factors",
+    "definition": "Factors that are first-degree expressions, such as x + 2.",
+    "variations": [
+      "linear factor"
+    ],
+    "emoji": "✖️🔣",
+    "id": "gl313"
+  },
+  "linear term": {
+    "word": "linear term",
+    "definition": "a term with a variable to the power of 1, such as 5x",
+    "variations": [
+      "linear term",
+      "linear terms"
+    ],
+    "emoji": "📏x️⃣",
+    "id": "gl314"
+  },
+  "listing": {
+    "word": "listing",
+    "definition": "A way of describing a set by writing its elements one by one.",
+    "variations": [
+      "listing",
+      "listings"
+    ],
+    "emoji": "📋🔢",
+    "id": "gl315"
+  },
+  "local currency": {
+    "word": "local currency",
+    "definition": "the money used in a particular country or place",
+    "variations": [
+      "local currencies",
+      "LC"
+    ],
+    "emoji": "🏦💵",
+    "id": "gl316"
+  },
+  "log": {
+    "word": "log",
+    "definition": "A short way of writing logarithm.",
+    "variations": [
+      "log",
+      "logs"
+    ],
+    "emoji": "🧮✏️",
+    "id": "gl317"
+  },
+  "logarithm": {
+    "word": "logarithm",
+    "definition": "A logarithm tells the exponent needed to raise a base to get a certain number.",
+    "variations": [
+      "logarithm",
+      "logarithms"
+    ],
+    "emoji": "🧮📘",
+    "id": "gl318"
+  },
+  "logarithm of a number": {
+    "word": "logarithm of a number",
+    "definition": "The power to which a base must be raised to get that number.",
+    "variations": [
+      "logarithms of a number",
+      "logarithm",
+      "logarithms"
+    ],
+    "emoji": "🧮🔟",
+    "id": "gl319"
+  },
+  "logarithmic notation": {
+    "word": "logarithmic notation",
+    "definition": "Logarithmic notation is the way of writing a logarithm, such as log_b a = x.",
+    "variations": [
+      "logarithmic notation"
+    ],
+    "emoji": "📝📘",
+    "id": "gl320"
+  },
+  "logarithms": {
+    "word": "logarithms",
+    "definition": "Logarithms are mathematical ideas used to describe exponents and simplify calculations with powers.",
+    "variations": [
+      "logarithm",
+      "logarithms"
+    ],
+    "emoji": "📘🔢",
+    "id": "gl321"
+  },
+  "logical reasoning": {
+    "word": "logical reasoning",
+    "definition": "Careful thinking that uses facts and rules to reach a correct conclusion.",
+    "variations": [
+      "logical reasoning"
+    ],
+    "emoji": "🧠➡️",
+    "id": "gl322"
+  },
+  "logical statements": {
+    "word": "logical statements",
+    "definition": "Steps of reasoning used to show that a conclusion is true.",
+    "variations": [
+      "logical statement",
+      "logical statements"
+    ],
+    "emoji": "🧩➡️",
+    "id": "gl323"
+  },
+  "lumen": {
+    "word": "lumen",
+    "definition": "a unit used to measure the amount of light",
+    "variations": [
+      "lumens"
+    ],
+    "emoji": "💡📐",
+    "id": "gl324"
+  },
+  "lux": {
+    "word": "lux",
+    "definition": "A unit used to measure how much light falls on a surface.",
+    "variations": [
+      "lux"
+    ],
+    "emoji": "💡📏",
+    "id": "gl325"
+  },
+  "magnitude": {
+    "word": "magnitude",
+    "definition": "Magnitude is the size or strength of something, such as an earthquake.",
+    "variations": [
+      "magnitude",
+      "magnitudes"
+    ],
+    "emoji": "📏🌋",
+    "id": "gl326"
+  },
+  "Malawian kwacha": {
+    "word": "Malawian kwacha",
+    "definition": "the official money used in Malawi",
+    "variations": [
+      "Malawian kwachas",
+      "kwacha",
+      "kwachas"
+    ],
+    "emoji": "🇲🇼💰",
+    "id": "gl327"
+  },
+  "man": {
+    "word": "man",
+    "definition": "an adult male person",
+    "variations": [
+      "man",
+      "men"
+    ],
+    "emoji": "👨",
+    "id": "gl328"
+  },
+  "manila sheet": {
+    "word": "manila sheet",
+    "definition": "A strong sheet of paper often used for drawing or classroom activities.",
+    "variations": [
+      "manila sheet",
+      "manila sheets"
+    ],
+    "emoji": "📄✂️",
+    "id": "gl329"
+  },
+  "mantissa": {
+    "word": "mantissa",
+    "definition": "In common logarithms, the mantissa is the decimal part of the logarithm.",
+    "variations": [
+      "mantissa",
+      "mantissas"
+    ],
+    "emoji": "📘🔢",
+    "id": "gl330"
+  },
+  "manuscript": {
+    "word": "manuscript",
+    "definition": "A manuscript is the original written version of a book or text before publication.",
+    "variations": [
+      "manuscript",
+      "manuscripts"
+    ],
+    "emoji": "📝📘",
+    "id": "gl331"
+  },
+  "market rate": {
+    "word": "market rate",
+    "definition": "the current price at which currencies are being exchanged in the market",
+    "variations": [
+      "market rates"
+    ],
+    "emoji": "🏦💹",
+    "id": "gl332"
+  },
+  "mass": {
+    "word": "mass",
+    "definition": "the amount of matter in an object; often measured in kilograms",
+    "variations": [
+      "masses"
+    ],
+    "emoji": "⚖️",
+    "id": "gl333"
+  },
+  "mast": {
+    "word": "mast",
+    "definition": "a tall upright structure that supports equipment, such as antennas",
+    "variations": [
+      "mast",
+      "masts"
+    ],
+    "emoji": "📡⬆️",
+    "id": "gl334"
+  },
+  "mathematical argument": {
+    "word": "mathematical argument",
+    "definition": "A reasoned explanation in mathematics that supports a conclusion.",
+    "variations": [
+      "mathematical argument",
+      "mathematical arguments"
+    ],
+    "emoji": "🧠📘",
+    "id": "gl335"
+  },
+  "mathematical software": {
+    "word": "mathematical software",
+    "definition": "A computer program used to draw graphs, calculate values, or solve mathematical problems.",
+    "variations": [
+      "mathematical software"
+    ],
+    "emoji": "💻📊",
+    "id": "gl336"
+  },
+  "measure": {
+    "word": "measure",
+    "definition": "To find the size, length, or angle of something.",
+    "variations": [
+      "measure",
+      "measures",
+      "measured",
+      "measuring"
+    ],
+    "emoji": "📏📐",
+    "id": "gl337"
+  },
+  "measurement": {
+    "word": "measurement",
+    "definition": "The process of finding the size, length, angle, or amount of something.",
+    "variations": [
+      "measurement",
+      "measurements",
+      "measure"
+    ],
+    "emoji": "📏🧮",
+    "id": "gl338"
+  },
+  "mechanical": {
+    "word": "mechanical",
+    "definition": "Mechanical means related to machines or moving parts.",
+    "variations": [
+      "mechanical"
+    ],
+    "emoji": "⚙️🔧",
+    "id": "gl339"
+  },
+  "member": {
+    "word": "member",
+    "definition": "An object or value that belongs to a set.",
+    "variations": [
+      "member",
+      "members"
+    ],
+    "emoji": "👥📦",
+    "id": "gl340"
+  },
+  "members": {
+    "word": "members",
+    "definition": "The objects or elements that belong to a set.",
+    "variations": [
+      "member"
+    ],
+    "emoji": "🧩📋",
+    "id": "gl341"
+  },
+  "metre": {
+    "word": "metre",
+    "definition": "a basic unit of length in the metric system",
+    "variations": [
+      "metres",
+      "m"
+    ],
+    "emoji": "📏",
+    "id": "gl342"
+  },
+  "middle term": {
+    "word": "middle term",
+    "definition": "the term in the middle of an expression with three terms, such as 6x in x² + 6x + 9",
+    "variations": [
+      "middle term",
+      "middle terms"
+    ],
+    "emoji": "↔️🧮",
+    "id": "gl343"
+  },
+  "midpoint": {
+    "word": "midpoint",
+    "definition": "The point exactly halfway between the two ends of a line segment.",
+    "variations": [
+      "midpoint",
+      "midpoints"
+    ],
+    "emoji": "📍↔️",
+    "id": "gl344"
+  },
+  "mine tunnel": {
+    "word": "mine tunnel",
+    "definition": "a passage dug underground for mining",
+    "variations": [
+      "mine tunnel",
+      "mine tunnels"
+    ],
+    "emoji": "⛏️🕳️",
+    "id": "gl345"
+  },
+  "Ministry of Education, Science and Technology": {
+    "word": "Ministry of Education, Science and Technology",
+    "definition": "The Ministry of Education, Science and Technology is the government body responsible for education and related areas in Tanzania.",
+    "variations": [
+      "Ministry of Education, Science and Technology",
+      "MoEST"
+    ],
+    "emoji": "🏛️📘",
+    "id": "gl346"
+  },
+  "mnemonic": {
+    "word": "mnemonic",
+    "definition": "A memory aid used to help remember information.",
+    "variations": [
+      "mnemonic",
+      "mnemonics"
+    ],
+    "emoji": "🧠📝",
+    "id": "gl347"
+  },
+  "mobile phone": {
+    "word": "mobile phone",
+    "definition": "a portable telephone that can be carried and used in different places",
+    "variations": [
+      "mobile phone",
+      "mobile phones",
+      "phone",
+      "phones"
+    ],
+    "emoji": "📱",
+    "id": "gl348"
+  },
+  "Mozambican metical": {
+    "word": "Mozambican metical",
+    "definition": "the official money used in Mozambique",
+    "variations": [
+      "Mozambican meticals",
+      "metical",
+      "meticals"
+    ],
+    "emoji": "🇲🇿💸",
+    "id": "gl349"
+  },
+  "MS Word": {
+    "word": "MS Word",
+    "definition": "A computer program used for typing, editing, and arranging documents.",
+    "variations": [
+      "MS Word",
+      "Microsoft Word"
+    ],
+    "emoji": "💻📝",
+    "id": "gl350"
+  },
+  "multiple": {
+    "word": "multiple",
+    "definition": "A number found by multiplying another number by a whole number.",
+    "variations": [
+      "multiple",
+      "multiples"
+    ],
+    "emoji": "✖️🔢",
+    "id": "gl351"
+  },
+  "multiplication": {
+    "word": "multiplication",
+    "definition": "The operation of repeated addition or scaling.",
+    "variations": [
+      "multiplication",
+      "multiply",
+      "multiplied"
+    ],
+    "emoji": "✖️",
+    "id": "gl352"
+  },
+  "multiplication law of exponents": {
+    "word": "multiplication law of exponents",
+    "definition": "This law says that when powers with the same base are multiplied, you add the exponents.",
+    "variations": [
+      "multiplication law of exponents",
+      "multiplication law",
+      "product law of exponents"
+    ],
+    "emoji": "✖️⬆️",
+    "id": "gl353"
+  },
+  "multiplication of radicals": {
+    "word": "multiplication of radicals",
+    "definition": "Multiplying radicals, usually by multiplying the radicands when the indices are the same.",
+    "variations": [
+      "multiplication of radicals"
+    ],
+    "emoji": "✖️√",
+    "id": "gl354"
+  },
+  "named entity: Adelfina": {
+    "word": "named entity: Adelfina",
+    "definition": "The name of a person mentioned in the textbook problems.",
+    "variations": [
+      "Adelfina"
+    ],
+    "emoji": "👤📏",
+    "id": "gl355"
+  },
+  "named entity: Adolfina": {
+    "word": "named entity: Adolfina",
+    "definition": "The name of a student mentioned in the textbook problems.",
+    "variations": [
+      "Adolfina"
+    ],
+    "emoji": "👧📐",
+    "id": "gl356"
+  },
+  "named entity: Dora": {
+    "word": "named entity: Dora",
+    "definition": "The name of a person mentioned in a textbook exercise.",
+    "variations": [
+      "Dora"
+    ],
+    "emoji": "👧✏️",
+    "id": "gl357"
+  },
+  "named entity: Lemalai": {
+    "word": "named entity: Lemalai",
+    "definition": "The name of a person mentioned in a textbook exercise.",
+    "variations": [
+      "Lemalai"
+    ],
+    "emoji": "👤📏",
+    "id": "gl358"
+  },
+  "named entity: Magoda Secondary School": {
+    "word": "named entity: Magoda Secondary School",
+    "definition": "The name of a school mentioned in the textbook problem.",
+    "variations": [
+      "Magoda Secondary School"
+    ],
+    "emoji": "🏫📘",
+    "id": "gl359"
+  },
+  "natural constant e": {
+    "word": "natural constant e",
+    "definition": "The number e is a special mathematical constant about equal to 2.7183, often used in growth and decay formulas.",
+    "variations": [
+      "e",
+      "natural constant e"
+    ],
+    "emoji": "🔢📈",
+    "id": "gl360"
+  },
+  "natural numbers": {
+    "word": "natural numbers",
+    "definition": "The counting numbers used for counting, such as 1, 2, 3, and so on.",
+    "variations": [
+      "natural number",
+      "natural numbers"
+    ],
+    "emoji": "1️⃣2️⃣3️⃣",
+    "id": "gl361"
+  },
+  "navigation": {
+    "word": "navigation",
+    "definition": "The process of finding direction or position when moving from one place to another.",
+    "variations": [
+      "navigation",
+      "navigate",
+      "navigational"
+    ],
+    "emoji": "🧭🌍",
+    "id": "gl362"
+  },
+  "negative angle": {
+    "word": "negative angle",
+    "definition": "an angle measured in the clockwise direction from the positive x-axis",
+    "variations": [
+      "negative angle",
+      "negative angles"
+    ],
+    "emoji": "➖🔄",
+    "id": "gl363"
+  },
+  "negative exponent": {
+    "word": "negative exponent",
+    "definition": "A negative exponent means the reciprocal of the base with a positive exponent, such as x^-2 = 1/<math><msup><mi>x</mi><mn class=\"tml-sml-pad\">2</mn></msup></math>.",
+    "variations": [
+      "negative exponent",
+      "negative exponents"
+    ],
+    "emoji": "➖🔁",
+    "id": "gl364"
+  },
+  "negative exponents": {
+    "word": "negative exponents",
+    "definition": "Powers with a negative sign, showing the reciprocal of a positive power.",
+    "variations": [
+      "negative exponent"
+    ],
+    "emoji": "⁻🔢",
+    "id": "gl365"
+  },
+  "New Zealand dollar": {
+    "word": "New Zealand dollar",
+    "definition": "the official money used in New Zealand",
+    "variations": [
+      "New Zealand dollars"
+    ],
+    "emoji": "🇳🇿💵",
+    "id": "gl366"
+  },
+  "non-zero number": {
+    "word": "non-zero number",
+    "definition": "A non-zero number is any number that is not equal to 0.",
+    "variations": [
+      "non-zero number",
+      "non-zero numbers"
+    ],
+    "emoji": "🚫0️⃣🔢",
+    "id": "gl367"
+  },
+  "north": {
+    "word": "north",
+    "definition": "one of the main compass directions",
+    "variations": [
+      "north"
+    ],
+    "emoji": "🧭⬆️",
+    "id": "gl368"
+  },
+  "Norwegian krone": {
+    "word": "Norwegian krone",
+    "definition": "the official money used in Norway",
+    "variations": [
+      "Norwegian kroner",
+      "NOK",
+      "krone",
+      "kroner"
+    ],
+    "emoji": "🇳🇴💰",
+    "id": "gl369"
+  },
+  "not an element of": {
+    "word": "not an element of",
+    "definition": "In set notation, this means an object does not belong to a set.",
+    "variations": [
+      "not an element of"
+    ],
+    "emoji": "∉❌",
+    "id": "gl370"
+  },
+  "nth root": {
+    "word": "nth root",
+    "definition": "A number that gives the original number when multiplied by itself n times.",
+    "variations": [
+      "nth root",
+      "n-th root",
+      "roots"
+    ],
+    "emoji": "🌱🔢",
+    "id": "gl371"
+  },
+  "null set": {
+    "word": "null set",
+    "definition": "Another name for an empty set.",
+    "variations": [
+      "null set",
+      "null sets"
+    ],
+    "emoji": "∅0️⃣",
+    "id": "gl372"
+  },
+  "number of elements": {
+    "word": "number of elements",
+    "definition": "How many elements a set has.",
+    "variations": [
+      "number of elements"
+    ],
+    "emoji": "🔢📏",
+    "id": "gl373"
+  },
+  "number of subsets": {
+    "word": "number of subsets",
+    "definition": "The total count of all possible subsets of a set.",
+    "variations": [
+      "number of subsets"
+    ],
+    "emoji": "🔢📚",
+    "id": "gl374"
+  },
+  "numerator": {
+    "word": "numerator",
+    "definition": "The numerator is the top number in a fraction.",
+    "variations": [
+      "numerator",
+      "numerators"
+    ],
+    "emoji": "🔝➗",
+    "id": "gl375"
+  },
+  "observation": {
+    "word": "observation",
+    "definition": "Something noticed carefully during an activity or investigation.",
+    "variations": [
+      "observation",
+      "observations"
+    ],
+    "emoji": "👀📝",
+    "id": "gl376"
+  },
+  "observe": {
+    "word": "observe",
+    "definition": "to look at something carefully",
+    "variations": [
+      "observe",
+      "observes",
+      "observing",
+      "observed",
+      "observation",
+      "observations"
+    ],
+    "emoji": "👀🔍",
+    "id": "gl377"
+  },
+  "observer": {
+    "word": "observer",
+    "definition": "a person who is watching something",
+    "variations": [
+      "observer",
+      "observers"
+    ],
+    "emoji": "👀🧍",
+    "id": "gl378"
+  },
+  "obtuse angle": {
+    "word": "obtuse angle",
+    "definition": "an angle greater than 90 degrees but less than 180 degrees",
+    "variations": [
+      "obtuse angle",
+      "obtuse angles"
+    ],
+    "emoji": "📐↗️",
+    "id": "gl379"
+  },
+  "odd numbers": {
+    "word": "odd numbers",
+    "definition": "Numbers that are not divisible by 2 exactly.",
+    "variations": [
+      "odd number",
+      "odd numbers"
+    ],
+    "emoji": "1️⃣3️⃣",
+    "id": "gl380"
+  },
+  "operation on sets": {
+    "word": "operation on sets",
+    "definition": "A process used to combine or compare sets to make a new set.",
+    "variations": [
+      "operation on sets",
+      "operations on sets",
+      "set operation",
+      "set operations"
+    ],
+    "emoji": "⚙️📦",
+    "id": "gl381"
+  },
+  "opposite side": {
+    "word": "opposite side",
+    "definition": "The side across from the chosen angle in a triangle.",
+    "variations": [
+      "opposite side",
+      "opposite sides"
+    ],
+    "emoji": "↔️📏",
+    "id": "gl382"
+  },
+  "ordinary decimal": {
+    "word": "ordinary decimal",
+    "definition": "An ordinary decimal is a number written normally with digits and a decimal point, not in standard form.",
+    "variations": [
+      "ordinary decimal",
+      "ordinary decimals"
+    ],
+    "emoji": "🔢📘",
+    "id": "gl383"
+  },
+  "origin": {
+    "word": "origin",
+    "definition": "the point where the x-axis and y-axis meet, usually written as (0, 0)",
+    "variations": [
+      "origin",
+      "origins"
+    ],
+    "emoji": "📍0️⃣",
+    "id": "gl384"
+  },
+  "oval": {
+    "word": "oval",
+    "definition": "A rounded shape used in Venn diagrams to represent a set.",
+    "variations": [
+      "oval",
+      "ovals"
+    ],
+    "emoji": "🥚⭕",
+    "id": "gl385"
+  },
+  "parallel": {
+    "word": "parallel",
+    "definition": "Lines that stay the same distance apart and never meet.",
+    "variations": [
+      "parallel"
+    ],
+    "emoji": "∥📏",
+    "id": "gl386"
+  },
+  "parallel banks": {
+    "word": "parallel banks",
+    "definition": "river sides that stay the same distance apart and never meet",
+    "variations": [
+      "parallel bank",
+      "parallel banks"
+    ],
+    "emoji": "∥🏞️",
+    "id": "gl387"
+  },
+  "parallel lines": {
+    "word": "parallel lines",
+    "definition": "Lines in the same plane that never meet, no matter how far they are extended.",
+    "variations": [
+      "parallel line",
+      "parallel lines"
+    ],
+    "emoji": "∥📏",
+    "id": "gl388"
+  },
+  "parallelogram": {
+    "word": "parallelogram",
+    "definition": "A four-sided shape in which both pairs of opposite sides are parallel.",
+    "variations": [
+      "parallelogram",
+      "parallelograms"
+    ],
+    "emoji": "▱📐",
+    "id": "gl389"
+  },
+  "passer-by": {
+    "word": "passer-by",
+    "definition": "a person who is walking past a place",
+    "variations": [
+      "passer-by",
+      "passers-by"
+    ],
+    "emoji": "🚶",
+    "id": "gl390"
+  },
+  "peg": {
+    "word": "peg",
+    "definition": "a small pointed object fixed into the ground to mark a place",
+    "variations": [
+      "peg",
+      "pegs"
+    ],
+    "emoji": "📍🪵",
+    "id": "gl391"
+  },
+  "pendulum": {
+    "word": "pendulum",
+    "definition": "a weight hanging from a fixed point that swings back and forth",
+    "variations": [
+      "pendulum",
+      "pendulums"
+    ],
+    "emoji": "⏱️🔄",
+    "id": "gl392"
+  },
+  "per annum": {
+    "word": "per annum",
+    "definition": "For each year.",
+    "variations": [
+      "per annum"
+    ],
+    "emoji": "📅1️⃣",
+    "id": "gl393"
+  },
+  "percentage change": {
+    "word": "percentage change",
+    "definition": "how much a value increases or decreases, written as a percent",
+    "variations": [
+      "percent change",
+      "percentage changes"
+    ],
+    "emoji": "📊%",
+    "id": "gl394"
+  },
+  "perfect square": {
+    "word": "perfect square",
+    "definition": "a number or expression that can be written as something multiplied by itself, like 9 = 3 × 3 or x² + 6x + 9 = (x + 3)²",
+    "variations": [
+      "perfect square",
+      "perfect squares"
+    ],
+    "emoji": "⬜²",
+    "id": "gl395"
+  },
+  "perimeter": {
+    "word": "perimeter",
+    "definition": "The total distance around a shape.",
+    "variations": [
+      "perimeter",
+      "perimeters"
+    ],
+    "emoji": "🔁📏",
+    "id": "gl396"
+  },
+  "perpendicular": {
+    "word": "perpendicular",
+    "definition": "Meeting at a right angle.",
+    "variations": [
+      "perpendicular",
+      "perpendicularly"
+    ],
+    "emoji": "⟂📐",
+    "id": "gl397"
+  },
+  "perpendicular bisector": {
+    "word": "perpendicular bisector",
+    "definition": "A line that cuts a segment into two equal parts at a right angle.",
+    "variations": [
+      "perpendicular bisector",
+      "perpendicular bisectors"
+    ],
+    "emoji": "⟂✂️📏",
+    "id": "gl398"
+  },
+  "pH": {
+    "word": "pH",
+    "definition": "pH is a number that shows how acidic or basic a solution is.",
+    "variations": [
+      "pH"
+    ],
+    "emoji": "🧪📏",
+    "id": "gl399"
+  },
+  "photocopying": {
+    "word": "photocopying",
+    "definition": "Photocopying is making a paper copy of a document using a machine.",
+    "variations": [
+      "photocopying",
+      "photocopy"
+    ],
+    "emoji": "📄🖨️",
+    "id": "gl400"
+  },
+  "pi": {
+    "word": "pi",
+    "definition": "A special number, written as π, used in calculations involving circles.",
+    "variations": [
+      "pi",
+      "π"
+    ],
+    "emoji": "🥧⭕",
+    "id": "gl401"
+  },
+  "plain paper": {
+    "word": "plain paper",
+    "definition": "Paper without lines or printed markings.",
+    "variations": [
+      "plain paper"
+    ],
+    "emoji": "📄",
+    "id": "gl402"
+  },
+  "plane": {
+    "word": "plane",
+    "definition": "A flat surface that extends endlessly in all directions.",
+    "variations": [
+      "planes"
+    ],
+    "emoji": "📄↔️",
+    "id": "gl403"
+  },
+  "platform": {
+    "word": "platform",
+    "definition": "a raised flat surface",
+    "variations": [
+      "platform",
+      "platforms"
+    ],
+    "emoji": "⬛📏",
+    "id": "gl404"
+  },
+  "playing ground": {
+    "word": "playing ground",
+    "definition": "An open area used for games or sports.",
+    "variations": [
+      "playing ground",
+      "playing grounds"
+    ],
+    "emoji": "🏟️🌳",
+    "id": "gl405"
+  },
+  "plot of land": {
+    "word": "plot of land",
+    "definition": "a piece of land with fixed boundaries",
+    "variations": [
+      "plot of land",
+      "plots of land"
+    ],
+    "emoji": "🌍📏",
+    "id": "gl406"
+  },
+  "polygon": {
+    "word": "polygon",
+    "definition": "A closed flat shape made of straight sides.",
+    "variations": [
+      "polygon",
+      "polygons"
+    ],
+    "emoji": "⬠📐",
+    "id": "gl407"
+  },
+  "population growth": {
+    "word": "population growth",
+    "definition": "Population growth is an increase in the number of people, animals, or organisms over time.",
+    "variations": [
+      "population growth"
+    ],
+    "emoji": "📈👥",
+    "id": "gl408"
+  },
+  "positive angle": {
+    "word": "positive angle",
+    "definition": "an angle measured in the anticlockwise direction from the positive x-axis",
+    "variations": [
+      "positive angle",
+      "positive angles"
+    ],
+    "emoji": "➕🔄",
+    "id": "gl409"
+  },
+  "positive exponent": {
+    "word": "positive exponent",
+    "definition": "A positive exponent shows that the base is multiplied by itself a certain number of times, like 4^3.",
+    "variations": [
+      "positive exponent",
+      "positive exponents"
+    ],
+    "emoji": "➕⬆️",
+    "id": "gl410"
+  },
+  "positive integer": {
+    "word": "positive integer",
+    "definition": "A positive integer is a whole number greater than 0, such as 1, 2, or 3.",
+    "variations": [
+      "positive integer",
+      "positive integers"
+    ],
+    "emoji": "➕🔢",
+    "id": "gl411"
+  },
+  "positive x-axis": {
+    "word": "positive x-axis",
+    "definition": "the part of the horizontal axis to the right of the origin",
+    "variations": [
+      "positive x-axis",
+      "x-axis"
+    ],
+    "emoji": "➡️📊",
+    "id": "gl412"
+  },
+  "postulate": {
+    "word": "postulate",
+    "definition": "A statement accepted as true without proof and used as a starting point in mathematics.",
+    "variations": [
+      "postulate",
+      "postulates"
+    ],
+    "emoji": "📘✅",
+    "id": "gl413"
+  },
+  "pound sterling": {
+    "word": "pound sterling",
+    "definition": "the official money used in the United Kingdom",
+    "variations": [
+      "pounds sterling",
+      "British pound"
+    ],
+    "emoji": "🇬🇧💷",
+    "id": "gl414"
+  },
+  "poverty alleviation": {
+    "word": "poverty alleviation",
+    "definition": "Actions taken to reduce poverty and improve people's living conditions.",
+    "variations": [
+      "poverty alleviation"
+    ],
+    "emoji": "🤝🌍",
+    "id": "gl415"
+  },
+  "power": {
+    "word": "power",
+    "definition": "A power is a way of writing repeated multiplication using a base and an exponent, such as 2^3.",
+    "variations": [
+      "power",
+      "powers"
+    ],
+    "emoji": "🔢⚡",
+    "id": "gl416"
+  },
+  "power form": {
+    "word": "power form",
+    "definition": "Power form is a way of writing a repeated product using exponents, like writing 5 × 5 × 5 as 5^3.",
+    "variations": [
+      "power form",
+      "power forms"
+    ],
+    "emoji": "📝🔢",
+    "id": "gl417"
+  },
+  "power law": {
+    "word": "power law",
+    "definition": "The power law says that when a power is raised to another power, you multiply the exponents.",
+    "variations": [
+      "power law",
+      "power laws"
+    ],
+    "emoji": "⚡✳️",
+    "id": "gl418"
+  },
+  "power law of a product": {
+    "word": "power law of a product",
+    "definition": "This law says that a product raised to a power can be written by raising each factor to that power.",
+    "variations": [
+      "power law of a product",
+      "power of a product"
+    ],
+    "emoji": "📦⬆️",
+    "id": "gl419"
+  },
+  "power of a quotient": {
+    "word": "power of a quotient",
+    "definition": "A power of a quotient means that a fraction raised to a power can be written by raising both the numerator and denominator to that power.",
+    "variations": [
+      "power of a quotient",
+      "powers of a quotient"
+    ],
+    "emoji": "➗⬆️",
+    "id": "gl420"
+  },
+  "power rule": {
+    "word": "power rule",
+    "definition": "The power rule of logarithms says that the log of a power equals the exponent times the log of the base quantity.",
+    "variations": [
+      "power rule",
+      "power rules"
+    ],
+    "emoji": "⬆️📘",
+    "id": "gl421"
+  },
+  "power rule for logarithms": {
+    "word": "power rule for logarithms",
+    "definition": "A logarithm law that lets you move an exponent in front of the logarithm as a multiplier.",
+    "variations": [
+      "power rule for logarithms",
+      "power rule",
+      "log power rule"
+    ],
+    "emoji": "📘⬆️",
+    "id": "gl422"
+  },
+  "preface": {
+    "word": "preface",
+    "definition": "A preface is an introduction at the beginning of a book that explains its purpose or background.",
+    "variations": [
+      "preface",
+      "prefaces"
+    ],
+    "emoji": "📖✍️",
+    "id": "gl423"
+  },
+  "prime factor": {
+    "word": "prime factor",
+    "definition": "A prime number that divides another number exactly.",
+    "variations": [
+      "prime factor",
+      "prime factors"
+    ],
+    "emoji": "🔢🧩",
+    "id": "gl424"
+  },
+  "prime number": {
+    "word": "prime number",
+    "definition": "A prime number is a whole number greater than 1 that has exactly two factors: 1 and itself.",
+    "variations": [
+      "prime number",
+      "prime numbers"
+    ],
+    "emoji": "🔢⭐",
+    "id": "gl425"
+  },
+  "prime numbers": {
+    "word": "prime numbers",
+    "definition": "Numbers greater than 1 that have exactly two factors: 1 and themselves.",
+    "variations": [
+      "prime number",
+      "prime numbers"
+    ],
+    "emoji": "🔢⭐",
+    "id": "gl426"
+  },
+  "principal": {
+    "word": "principal",
+    "definition": "The principal is the original amount of money invested or borrowed.",
+    "variations": [
+      "principal",
+      "principals"
+    ],
+    "emoji": "💵🏦",
+    "id": "gl427"
+  },
+  "product": {
+    "word": "product",
+    "definition": "the result of multiplication",
+    "variations": [
+      "product",
+      "products"
+    ],
+    "emoji": "✖️🔢",
+    "id": "gl428"
+  },
+  "product of prime factors": {
+    "word": "product of prime factors",
+    "definition": "A way of writing a number as multiplication of prime numbers.",
+    "variations": [
+      "product of prime factors",
+      "prime factorization",
+      "prime factors"
+    ],
+    "emoji": "✖️🔢",
+    "id": "gl429"
+  },
+  "product rule": {
+    "word": "product rule",
+    "definition": "The product rule of logarithms says that the log of a product equals the sum of the logs.",
+    "variations": [
+      "product rule",
+      "product rules"
+    ],
+    "emoji": "✖️📘",
+    "id": "gl430"
+  },
+  "products": {
+    "word": "products",
+    "definition": "Results obtained when numbers or expressions are multiplied.",
+    "variations": [
+      "product"
+    ],
+    "emoji": "✖️🧮",
+    "id": "gl431"
+  },
+  "project": {
+    "word": "project",
+    "definition": "A project is a planned piece of work done to learn or produce something.",
+    "variations": [
+      "project",
+      "projects"
+    ],
+    "emoji": "🛠️📚",
+    "id": "gl432"
+  },
+  "proof": {
+    "word": "proof",
+    "definition": "A logical explanation that shows why a mathematical statement is true.",
+    "variations": [
+      "proof",
+      "proofs",
+      "prove"
+    ],
+    "emoji": "🧠✅",
+    "id": "gl433"
+  },
+  "proper subset": {
+    "word": "proper subset",
+    "definition": "A subset that is contained in another set but is not equal to it.",
+    "variations": [
+      "proper subset",
+      "proper subsets"
+    ],
+    "emoji": "⊂📉",
+    "id": "gl434"
+  },
+  "properties of powers": {
+    "word": "properties of powers",
+    "definition": "Properties of powers are rules that explain how powers behave when they are multiplied, divided, or raised to another power.",
+    "variations": [
+      "property of powers",
+      "properties of powers"
+    ],
+    "emoji": "📏⚡",
+    "id": "gl435"
+  },
+  "property": {
+    "word": "property",
+    "definition": "A quality or characteristic of a mathematical object.",
+    "variations": [
+      "property",
+      "properties"
+    ],
+    "emoji": "📘🔍",
+    "id": "gl436"
+  },
+  "proportion": {
+    "word": "proportion",
+    "definition": "A statement that two ratios are equal.",
+    "variations": [
+      "proportions"
+    ],
+    "emoji": "⚖️📏",
+    "id": "gl437"
+  },
+  "proportional": {
+    "word": "proportional",
+    "definition": "Having a relationship where two quantities keep the same ratio.",
+    "variations": [
+      "proportional",
+      "proportion",
+      "proportions",
+      "proportionality"
+    ],
+    "emoji": "⚖️📏",
+    "id": "gl438"
+  },
+  "proportionality": {
+    "word": "proportionality",
+    "definition": "A relationship in which two quantities change in a constant ratio.",
+    "variations": [],
+    "emoji": "⚖️📈",
+    "id": "gl439"
+  },
+  "proportionality constant": {
+    "word": "proportionality constant",
+    "definition": "Another name for the constant of proportionality; it is the common ratio between corresponding sides of similar figures.",
+    "variations": [
+      "proportionality constant",
+      "proportionality constants"
+    ],
+    "emoji": "🔢⚖️",
+    "id": "gl440"
+  },
+  "protractor": {
+    "word": "protractor",
+    "definition": "a tool used to measure angles",
+    "variations": [
+      "protractor",
+      "protractors"
+    ],
+    "emoji": "📐",
+    "id": "gl441"
+  },
+  "prove": {
+    "word": "prove",
+    "definition": "To show with clear mathematical steps that something is true.",
+    "variations": [
+      "prove",
+      "proves",
+      "proved",
+      "proof"
+    ],
+    "emoji": "✅🧠",
+    "id": "gl442"
+  },
+  "public library": {
+    "word": "public library",
+    "definition": "a place where the public can read or borrow books",
+    "variations": [
+      "public library",
+      "public libraries",
+      "library",
+      "libraries"
+    ],
+    "emoji": "📚🏛️",
+    "id": "gl443"
+  },
+  "publisher": {
+    "word": "publisher",
+    "definition": "A publisher is a person or organisation that prepares and produces books for the public.",
+    "variations": [
+      "publisher",
+      "publishers"
+    ],
+    "emoji": "🏢📚",
+    "id": "gl444"
+  },
+  "pula": {
+    "word": "pula",
+    "definition": "the official money used in Botswana",
+    "variations": [
+      "pulas"
+    ],
+    "emoji": "🇧🇼💰",
+    "id": "gl445"
+  },
+  "pure water": {
+    "word": "pure water",
+    "definition": "Pure water is water that has no other substances mixed in it.",
+    "variations": [
+      "pure water"
+    ],
+    "emoji": "💧",
+    "id": "gl446"
+  },
+  "Pythagoras theorem": {
+    "word": "Pythagoras theorem",
+    "definition": "A rule for right-angled triangles stating that the square of the hypotenuse equals the sum of the squares of the other two sides.",
+    "variations": [
+      "Pythagorean theorem"
+    ],
+    "emoji": "📐🔺",
+    "id": "gl447"
+  },
+  "Pythagoras' theorem": {
+    "word": "Pythagoras' theorem",
+    "definition": "A rule for right-angled triangles stating that the square of the hypotenuse equals the sum of the squares of the other two sides.",
+    "variations": [
+      "Pythagoras' theorem",
+      "Pythagorean theorem"
+    ],
+    "emoji": "📐🧮",
+    "id": "gl448"
+  },
+  "quadrant": {
+    "word": "quadrant",
+    "definition": "one of the four sections of the coordinate plane",
+    "variations": [
+      "quadrant",
+      "quadrants"
+    ],
+    "emoji": "➕✖️4️⃣",
+    "id": "gl449"
+  },
+  "quadratic equation": {
+    "word": "quadratic equation",
+    "definition": "an equation that contains a variable squared and can usually be written in the form ax² + bx + c = 0",
+    "variations": [
+      "quadratic equation",
+      "quadratic equations"
+    ],
+    "emoji": "🧮²",
+    "id": "gl450"
+  },
+  "quadratic expression": {
+    "word": "quadratic expression",
+    "definition": "an algebraic expression whose highest power of the variable is 2, such as x² + 3x + 2",
+    "variations": [
+      "quadratic expression",
+      "quadratic expressions"
+    ],
+    "emoji": "📐²",
+    "id": "gl451"
+  },
+  "quadratic expressions": {
+    "word": "quadratic expressions",
+    "definition": "Expressions in which the highest power of the variable is 2.",
+    "variations": [
+      "quadratic expression"
+    ],
+    "emoji": "2️⃣🧮",
+    "id": "gl452"
+  },
+  "quadratic formula": {
+    "word": "quadratic formula",
+    "definition": "a formula used to solve quadratic equations: x = (-b ± √(b² - 4ac)) / 2a",
+    "variations": [
+      "quadratic formula",
+      "general quadratic formula"
+    ],
+    "emoji": "📐√🧮",
+    "id": "gl453"
+  },
+  "quadratic term": {
+    "word": "quadratic term",
+    "definition": "The term in a quadratic expression that contains the variable squared.",
+    "variations": [
+      "quadratic term",
+      "quadratic terms"
+    ],
+    "emoji": "²🔣",
+    "id": "gl454"
+  },
+  "quadrilateral": {
+    "word": "quadrilateral",
+    "definition": "A polygon with four sides.",
+    "variations": [
+      "quadrilaterals"
+    ],
+    "emoji": "🔷",
+    "id": "gl455"
+  },
+  "quantity": {
+    "word": "quantity",
+    "definition": "An amount or number of something.",
+    "variations": [
+      "quantity",
+      "quantities"
+    ],
+    "emoji": "🔢",
+    "id": "gl456"
+  },
+  "quantity purchased": {
+    "word": "quantity purchased",
+    "definition": "the amount of goods bought",
+    "variations": [
+      "quantities purchased"
+    ],
+    "emoji": "🛒📦",
+    "id": "gl457"
+  },
+  "quotient": {
+    "word": "quotient",
+    "definition": "A quotient is the result of division, or an expression showing one quantity divided by another.",
+    "variations": [
+      "quotient",
+      "quotients"
+    ],
+    "emoji": "➗📐",
+    "id": "gl458"
+  },
+  "quotient rule": {
+    "word": "quotient rule",
+    "definition": "The quotient rule of logarithms says that the log of a quotient equals the difference of the logs.",
+    "variations": [
+      "quotient rule",
+      "quotient rules"
+    ],
+    "emoji": "➗📘",
+    "id": "gl459"
+  },
+  "radical": {
+    "word": "radical",
+    "definition": "A radical is a mathematical expression involving a root, such as a square root or cube root.",
+    "variations": [
+      "radical",
+      "radicals"
+    ],
+    "emoji": "√📐",
+    "id": "gl460"
+  },
+  "radical form": {
+    "word": "radical form",
+    "definition": "Radical form means writing an answer using root symbols instead of decimal approximations.",
+    "variations": [
+      "radical form"
+    ],
+    "emoji": "√✍️",
+    "id": "gl461"
+  },
+  "radical symbol": {
+    "word": "radical symbol",
+    "definition": "The symbol √ used to show a root.",
+    "variations": [
+      "radical symbol",
+      "radical symbols"
+    ],
+    "emoji": "√",
+    "id": "gl462"
+  },
+  "radicals": {
+    "word": "radicals",
+    "definition": "Expressions that contain a root symbol, such as a square root or cube root.",
+    "variations": [
+      "radical"
+    ],
+    "emoji": "√∛",
+    "id": "gl463"
+  },
+  "radicand": {
+    "word": "radicand",
+    "definition": "The number or expression inside a radical sign.",
+    "variations": [
+      "radicand",
+      "radicands"
+    ],
+    "emoji": "🔢√",
+    "id": "gl464"
+  },
+  "radius": {
+    "word": "radius",
+    "definition": "The distance from the center of a circle to its edge.",
+    "variations": [
+      "radius",
+      "radii"
+    ],
+    "emoji": "⭕📏",
+    "id": "gl465"
+  },
+  "ramp": {
+    "word": "ramp",
+    "definition": "a sloping surface that connects one level to another",
+    "variations": [
+      "ramp",
+      "ramps"
+    ],
+    "emoji": "♿📐",
+    "id": "gl466"
+  },
+  "rand": {
+    "word": "rand",
+    "definition": "the official money used in South Africa",
+    "variations": [
+      "rands"
+    ],
+    "emoji": "🇿🇦💵",
+    "id": "gl467"
+  },
+  "rate": {
+    "word": "rate",
+    "definition": "A measure that compares one quantity with another, often per 100 in interest.",
+    "variations": [
+      "rate",
+      "rates"
+    ],
+    "emoji": "📊%",
+    "id": "gl468"
+  },
+  "rate of flow": {
+    "word": "rate of flow",
+    "definition": "Rate of flow is the amount of liquid or gas moving in a certain time.",
+    "variations": [
+      "rate of flow",
+      "rates of flow"
+    ],
+    "emoji": "💧⏱️",
+    "id": "gl469"
+  },
+  "ratio": {
+    "word": "ratio",
+    "definition": "A comparison of two quantities by division.",
+    "variations": [
+      "ratio",
+      "ratios"
+    ],
+    "emoji": "⚖️➗",
+    "id": "gl470"
+  },
+  "ratio of lengths": {
+    "word": "ratio of lengths",
+    "definition": "A comparison of two lengths by division.",
+    "variations": [
+      "ratios of lengths"
+    ],
+    "emoji": "📏⚖️",
+    "id": "gl471"
+  },
+  "rational exponent": {
+    "word": "rational exponent",
+    "definition": "An exponent written as a fraction, such as 1/2 or 1/3, which represents a root.",
+    "variations": [
+      "rational exponent",
+      "rational exponents"
+    ],
+    "emoji": "➗⬆️",
+    "id": "gl472"
+  },
+  "rational number": {
+    "word": "rational number",
+    "definition": "A number that can be written as a fraction of two integers.",
+    "variations": [
+      "rational number",
+      "rational numbers"
+    ],
+    "emoji": "➗🔢",
+    "id": "gl473"
+  },
+  "rationalisation": {
+    "word": "rationalisation",
+    "definition": "Rationalisation is the process of removing a radical from the denominator of a fraction.",
+    "variations": [
+      "rationalisation",
+      "rationalization"
+    ],
+    "emoji": "√➗",
+    "id": "gl474"
+  },
+  "rationalisation of denominators": {
+    "word": "rationalisation of denominators",
+    "definition": "The process of removing radicals from the denominator of a fraction.",
+    "variations": [
+      "rationalisation of denominator",
+      "rationalisation of denominators",
+      "rationalizing the denominator"
+    ],
+    "emoji": "🧹⬇️√",
+    "id": "gl475"
+  },
+  "rationalising": {
+    "word": "rationalising",
+    "definition": "Rewriting an expression to remove a radical from the denominator.",
+    "variations": [
+      "rationalise",
+      "rationalized",
+      "rationalising the denominator"
+    ],
+    "emoji": "√✏️",
+    "id": "gl476"
+  },
+  "rationalising factor": {
+    "word": "rationalising factor",
+    "definition": "An expression multiplied by a fraction to remove radicals from the denominator.",
+    "variations": [
+      "rationalising factor",
+      "rationalising factors"
+    ],
+    "emoji": "🛠️√",
+    "id": "gl477"
+  },
+  "rationalize": {
+    "word": "rationalize",
+    "definition": "To rationalize means to rewrite a fraction so that there is no radical in the denominator.",
+    "variations": [
+      "rationalize",
+      "rationalized",
+      "rationalizing",
+      "rationalise",
+      "rationalised",
+      "rationalising"
+    ],
+    "emoji": "√➡️➗",
+    "id": "gl478"
+  },
+  "rationalize denominators": {
+    "word": "rationalize denominators",
+    "definition": "to rewrite a fraction so that there is no radical in the denominator",
+    "variations": [
+      "rationalize denominator",
+      "rationalize denominators",
+      "rationalise denominators"
+    ],
+    "emoji": "🧮√",
+    "id": "gl479"
+  },
+  "rationalize the denominator": {
+    "word": "rationalize the denominator",
+    "definition": "To rewrite a fraction so that there is no root in the denominator.",
+    "variations": [
+      "rationalize the denominator",
+      "rationalized denominator",
+      "rationalizing the denominator"
+    ],
+    "emoji": "➗√✍️",
+    "id": "gl480"
+  },
+  "rationalizing factor": {
+    "word": "rationalizing factor",
+    "definition": "A rationalizing factor is a number or expression used to remove a radical from the denominator.",
+    "variations": [
+      "rationalizing factor",
+      "rationalizing factors",
+      "rationalising factor",
+      "rationalising factors"
+    ],
+    "emoji": "√✖️🧮",
+    "id": "gl481"
+  },
+  "real number": {
+    "word": "real number",
+    "definition": "A real number is any number that can appear on the number line, including whole numbers, fractions, and decimals.",
+    "variations": [
+      "real number",
+      "real numbers"
+    ],
+    "emoji": "📏🔢",
+    "id": "gl482"
+  },
+  "real numbers": {
+    "word": "real numbers",
+    "definition": "All numbers on the number line, including integers, fractions, and decimals.",
+    "variations": [
+      "real number",
+      "real numbers"
+    ],
+    "emoji": "🔢📏",
+    "id": "gl483"
+  },
+  "reciprocal": {
+    "word": "reciprocal",
+    "definition": "The reciprocal of a number is 1 divided by that number.",
+    "variations": [
+      "reciprocal",
+      "reciprocals"
+    ],
+    "emoji": "🔁1️⃣",
+    "id": "gl484"
+  },
+  "recognise": {
+    "word": "recognise",
+    "definition": "To identify or notice something as known or important.",
+    "variations": [
+      "recognise",
+      "recognises",
+      "recognised",
+      "recognising",
+      "recognize",
+      "recognizes",
+      "recognized",
+      "recognizing"
+    ],
+    "emoji": "👀💡",
+    "id": "gl485"
+  },
+  "recording": {
+    "word": "recording",
+    "definition": "Recording is saving sound, images, or information for later use.",
+    "variations": [
+      "recording",
+      "recordings"
+    ],
+    "emoji": "🎙️💾",
+    "id": "gl486"
+  },
+  "rectangle": {
+    "word": "rectangle",
+    "definition": "A four-sided shape used in Venn diagrams to represent the universal set.",
+    "variations": [
+      "rectangle",
+      "rectangles"
+    ],
+    "emoji": "▭📐",
+    "id": "gl487"
+  },
+  "rectangular": {
+    "word": "rectangular",
+    "definition": "Rectangular means having the shape of a rectangle.",
+    "variations": [
+      "rectangular"
+    ],
+    "emoji": "▭📏",
+    "id": "gl488"
+  },
+  "reduce": {
+    "word": "reduce",
+    "definition": "To make something smaller or less.",
+    "variations": [
+      "reduce",
+      "reduces",
+      "reduced",
+      "reducing"
+    ],
+    "emoji": "⬇️📏",
+    "id": "gl489"
+  },
+  "reflect": {
+    "word": "reflect",
+    "definition": "To think carefully about what you have learned or noticed.",
+    "variations": [
+      "reflect",
+      "reflects",
+      "reflected",
+      "reflecting"
+    ],
+    "emoji": "🤔💭",
+    "id": "gl490"
+  },
+  "reflex angle": {
+    "word": "reflex angle",
+    "definition": "an angle that is greater than 180 degrees and less than 360 degrees",
+    "variations": [
+      "reflex angle",
+      "reflex angles"
+    ],
+    "emoji": "📏🔄",
+    "id": "gl491"
+  },
+  "region": {
+    "word": "region",
+    "definition": "A part of a diagram that represents a set or a portion of a set.",
+    "variations": [
+      "region",
+      "regions"
+    ],
+    "emoji": "🗺️⭕",
+    "id": "gl492"
+  },
+  "relation": {
+    "word": "relation",
+    "definition": "A connection between variables or quantities.",
+    "variations": [
+      "relation",
+      "relations"
+    ],
+    "emoji": "🔗📘",
+    "id": "gl493"
+  },
+  "relations": {
+    "word": "relations",
+    "definition": "Rules or connections that show how elements of one set are linked to elements of another set.",
+    "variations": [
+      "relation"
+    ],
+    "emoji": "🔗🧩",
+    "id": "gl494"
+  },
+  "rent": {
+    "word": "rent",
+    "definition": "money paid regularly to use a house, room, or building owned by someone else",
+    "variations": [
+      "rents",
+      "rented",
+      "renting"
+    ],
+    "emoji": "🏠💵",
+    "id": "gl495"
+  },
+  "resistance": {
+    "word": "resistance",
+    "definition": "the opposition to electric current in a wire or material",
+    "variations": [
+      "resistances"
+    ],
+    "emoji": "⚡🧵",
+    "id": "gl496"
+  },
+  "resize": {
+    "word": "resize",
+    "definition": "To change the size of an object.",
+    "variations": [
+      "resize",
+      "resizes",
+      "resized",
+      "resizing"
+    ],
+    "emoji": "📏🔄",
+    "id": "gl497"
+  },
+  "retrieval system": {
+    "word": "retrieval system",
+    "definition": "A retrieval system is a method or system for storing and finding information.",
+    "variations": [
+      "retrieval system",
+      "retrieval systems"
+    ],
+    "emoji": "💾🔎",
+    "id": "gl498"
+  },
+  "revised edition": {
+    "word": "revised edition",
+    "definition": "A revised edition is a version of a book that has been changed or updated from an earlier one.",
+    "variations": [
+      "revised edition",
+      "revised editions"
+    ],
+    "emoji": "🔄📘",
+    "id": "gl499"
+  },
+  "revision exercise": {
+    "word": "revision exercise",
+    "definition": "A set of questions used to review and practise what has already been learned.",
+    "variations": [
+      "revision exercise",
+      "revision exercises"
+    ],
+    "emoji": "📝🔁",
+    "id": "gl500"
+  },
+  "rhombus": {
+    "word": "rhombus",
+    "definition": "A four-sided shape with all sides equal in length.",
+    "variations": [
+      "rhombus",
+      "rhombuses",
+      "rhombi"
+    ],
+    "emoji": "🔷📐",
+    "id": "gl501"
+  },
+  "RHS postulate": {
+    "word": "RHS postulate",
+    "definition": "A rule that says two right-angled triangles are congruent if their hypotenuses and one corresponding side are equal.",
+    "variations": [
+      "RHS postulate",
+      "Right angle-Hypotenuse-Side postulate",
+      "RHS"
+    ],
+    "emoji": "🔺📏90°",
+    "id": "gl502"
+  },
+  "Richter scale": {
+    "word": "Richter scale",
+    "definition": "The Richter scale is a scale used to measure the magnitude of an earthquake.",
+    "variations": [
+      "Richter scale"
+    ],
+    "emoji": "🌍📏",
+    "id": "gl503"
+  },
+  "right angle": {
+    "word": "right angle",
+    "definition": "An angle measuring 90 degrees.",
+    "variations": [
+      "right angle",
+      "right angles"
+    ],
+    "emoji": "📐9️⃣0️⃣",
+    "id": "gl504"
+  },
+  "Right angle-Hypotenuse-Side (RHS)": {
+    "word": "Right angle-Hypotenuse-Side (RHS)",
+    "definition": "A rule for right triangles that proves congruence using a right angle, the hypotenuse, and one corresponding side.",
+    "variations": [
+      "Right angle-Hypotenuse-Side",
+      "RHS"
+    ],
+    "emoji": "📐✅",
+    "id": "gl505"
+  },
+  "right-angled triangle": {
+    "word": "right-angled triangle",
+    "definition": "A triangle that has one angle equal to 90 degrees.",
+    "variations": [
+      "right-angled triangle",
+      "right-angled triangles",
+      "right triangle",
+      "right triangles"
+    ],
+    "emoji": "📐🔺",
+    "id": "gl506"
+  },
+  "right-hand side": {
+    "word": "right-hand side",
+    "definition": "the part of an equation that is written to the right of the equals sign",
+    "variations": [
+      "right-hand side",
+      "RHS"
+    ],
+    "emoji": "➡️🟰",
+    "id": "gl507"
+  },
+  "river": {
+    "word": "river",
+    "definition": "A large natural stream of flowing water.",
+    "variations": [
+      "river",
+      "rivers"
+    ],
+    "emoji": "🏞️💧",
+    "id": "gl508"
+  },
+  "road": {
+    "word": "road",
+    "definition": "a path or route for vehicles and people to travel on",
+    "variations": [
+      "road",
+      "roads"
+    ],
+    "emoji": "🛣️",
+    "id": "gl509"
+  },
+  "roof": {
+    "word": "roof",
+    "definition": "the top covering of a building",
+    "variations": [
+      "roof",
+      "roofs"
+    ],
+    "emoji": "🏠",
+    "id": "gl510"
+  },
+  "roommate": {
+    "word": "roommate",
+    "definition": "a person who shares a room or home with another person",
+    "variations": [
+      "roommates"
+    ],
+    "emoji": "🛏️👥",
+    "id": "gl511"
+  },
+  "root": {
+    "word": "root",
+    "definition": "a value of the variable that makes an equation true",
+    "variations": [
+      "root",
+      "roots"
+    ],
+    "emoji": "🌱🟰",
+    "id": "gl512"
+  },
+  "root of a number": {
+    "word": "root of a number",
+    "definition": "A value that produces the number when multiplied by itself a certain number of times.",
+    "variations": [
+      "roots of a number",
+      "root",
+      "roots"
+    ],
+    "emoji": "√🔢",
+    "id": "gl513"
+  },
+  "roots law": {
+    "word": "roots law",
+    "definition": "A law of logarithms that changes a root into a fraction multiplying the logarithm.",
+    "variations": [
+      "roots law",
+      "root law",
+      "laws of roots"
+    ],
+    "emoji": "🌱📘",
+    "id": "gl514"
+  },
+  "roots rule": {
+    "word": "roots rule",
+    "definition": "The roots rule of logarithms changes roots into fractional powers inside a logarithm.",
+    "variations": [
+      "roots rule"
+    ],
+    "emoji": "√📘",
+    "id": "gl515"
+  },
+  "rope": {
+    "word": "rope",
+    "definition": "a thick strong cord used for pulling, lifting, or tying",
+    "variations": [
+      "rope",
+      "ropes"
+    ],
+    "emoji": "🪢",
+    "id": "gl516"
+  },
+  "roster form": {
+    "word": "roster form",
+    "definition": "Another name for writing a set by listing all its elements.",
+    "variations": [
+      "roster form"
+    ],
+    "emoji": "📋✏️",
+    "id": "gl517"
+  },
+  "rule of exponents": {
+    "word": "rule of exponents",
+    "definition": "The rule of exponents in logarithms says that <math><mrow><mi>l</mi><mi>o</mi><msub><mi>g</mi><mi>a</mi></msub></mrow></math>(<math><msup><mi>m</mi><mi>n</mi></msup></math>) = n <math><mrow><mi>l</mi><mi>o</mi><msub><mi>g</mi><mi>a</mi></msub></mrow></math>(m).",
+    "variations": [
+      "rule of exponents",
+      "rules of exponents"
+    ],
+    "emoji": "⬆️🧮",
+    "id": "gl518"
+  },
+  "same base": {
+    "word": "same base",
+    "definition": "Same base means two or more powers use the same number or variable as the base.",
+    "variations": [
+      "same base",
+      "same bases"
+    ],
+    "emoji": "🧱🔁",
+    "id": "gl519"
+  },
+  "SAS": {
+    "word": "SAS",
+    "definition": "A short form for the Side-Angle-Side similarity theorem.",
+    "variations": [
+      "SAS",
+      "S.A.S."
+    ],
+    "emoji": "📏📐",
+    "id": "gl520"
+  },
+  "SAS postulate": {
+    "word": "SAS postulate",
+    "definition": "A geometry rule stating that if two sides and the included angle of one triangle are equal to those of another triangle, the triangles are congruent.",
+    "variations": [],
+    "emoji": "📐🔺",
+    "id": "gl521"
+  },
+  "SAS Similarity theorem": {
+    "word": "SAS Similarity theorem",
+    "definition": "A rule that says two triangles are similar if two pairs of matching sides are in the same ratio and the angle between them is equal.",
+    "variations": [
+      "SAS similarity theorem",
+      "Side-Angle-Side Similarity theorem"
+    ],
+    "emoji": "🔺📏",
+    "id": "gl522"
+  },
+  "SAS theorem": {
+    "word": "SAS theorem",
+    "definition": "A rule used to compare triangles by using two sides and the included angle between them.",
+    "variations": [
+      "SAS theorem",
+      "SAS"
+    ],
+    "emoji": "📐📏",
+    "id": "gl523"
+  },
+  "Saudi riyal": {
+    "word": "Saudi riyal",
+    "definition": "the official money used in Saudi Arabia",
+    "variations": [
+      "Saudi riyals",
+      "riyal",
+      "riyals"
+    ],
+    "emoji": "🇸🇦💰",
+    "id": "gl524"
+  },
+  "scale": {
+    "word": "scale",
+    "definition": "a measuring rule or a chosen size ratio used in drawing",
+    "variations": [
+      "scale",
+      "scales"
+    ],
+    "emoji": "📏",
+    "id": "gl525"
+  },
+  "scale factor": {
+    "word": "scale factor",
+    "definition": "The number used to enlarge or reduce a shape by multiplying its side lengths.",
+    "variations": [
+      "scale factor",
+      "scale factors"
+    ],
+    "emoji": "🔍📐",
+    "id": "gl526"
+  },
+  "scientific calculator": {
+    "word": "scientific calculator",
+    "definition": "A scientific calculator is a calculator that can do advanced operations such as roots, powers, and logarithms.",
+    "variations": [
+      "scientific calculator",
+      "scientific calculators"
+    ],
+    "emoji": "🧮🔬",
+    "id": "gl527"
+  },
+  "scientific notation": {
+    "word": "scientific notation",
+    "definition": "A way of writing very large or very small numbers using a number multiplied by a power of 10.",
+    "variations": [
+      "scientific notation"
+    ],
+    "emoji": "🔬✖️🔟",
+    "id": "gl528"
+  },
+  "sea level": {
+    "word": "sea level",
+    "definition": "the average height of the sea surface, used as a reference for height",
+    "variations": [
+      "sea level"
+    ],
+    "emoji": "🌊📏",
+    "id": "gl529"
+  },
+  "secant": {
+    "word": "secant",
+    "definition": "A trigonometric ratio that is the reciprocal of cosine.",
+    "variations": [
+      "secant",
+      "sec"
+    ],
+    "emoji": "🔁📐",
+    "id": "gl530"
+  },
+  "second": {
+    "word": "second",
+    "definition": "A unit of time equal to one sixtieth of a minute.",
+    "variations": [
+      "second",
+      "seconds",
+      "sec"
+    ],
+    "emoji": "⏱️",
+    "id": "gl531"
+  },
+  "second quadrant": {
+    "word": "second quadrant",
+    "definition": "the top-left part of the coordinate plane where x is negative and y is positive",
+    "variations": [
+      "second quadrant"
+    ],
+    "emoji": "2️⃣📊",
+    "id": "gl532"
+  },
+  "sector": {
+    "word": "sector",
+    "definition": "a part of a circle enclosed by two radii and the arc between them",
+    "variations": [
+      "sector",
+      "sectors"
+    ],
+    "emoji": "⭕🥧",
+    "id": "gl533"
+  },
+  "seedling": {
+    "word": "seedling",
+    "definition": "A seedling is a very young plant that has just started to grow.",
+    "variations": [
+      "seedling",
+      "seedlings"
+    ],
+    "emoji": "🌱🪴",
+    "id": "gl534"
+  },
+  "segment": {
+    "word": "segment",
+    "definition": "A part of a line with two endpoints.",
+    "variations": [
+      "segment",
+      "segments",
+      "line segment",
+      "line segments"
+    ],
+    "emoji": "📏•",
+    "id": "gl535"
+  },
+  "self-evident": {
+    "word": "self-evident",
+    "definition": "So clear that it seems true without needing proof.",
+    "variations": [
+      "self-evident"
+    ],
+    "emoji": "👀✅",
+    "id": "gl536"
+  },
+  "seminar": {
+    "word": "seminar",
+    "definition": "A meeting where people gather to discuss or learn about a topic.",
+    "variations": [
+      "seminar",
+      "seminars"
+    ],
+    "emoji": "🏫🗣️",
+    "id": "gl537"
+  },
+  "set": {
+    "word": "set",
+    "definition": "A collection of distinct objects or numbers considered as one group.",
+    "variations": [
+      "sets"
+    ],
+    "emoji": "📦🔢",
+    "id": "gl538"
+  },
+  "set builder notation": {
+    "word": "set builder notation",
+    "definition": "A way of describing a set by stating the rule that its elements follow.",
+    "variations": [
+      "set builder notation"
+    ],
+    "emoji": "🧩📝",
+    "id": "gl539"
+  },
+  "set difference": {
+    "word": "set difference",
+    "definition": "The set of elements that are in one set but not in another.",
+    "variations": [
+      "set difference",
+      "set differences",
+      "difference of sets"
+    ],
+    "emoji": "➖📦",
+    "id": "gl540"
+  },
+  "set notation": {
+    "word": "set notation",
+    "definition": "A system of symbols used to write sets and relationships between them.",
+    "variations": [
+      "set notation"
+    ],
+    "emoji": "✍️🔣",
+    "id": "gl541"
+  },
+  "shade": {
+    "word": "shade",
+    "definition": "To color a region in a diagram to show a required set or part of a set.",
+    "variations": [
+      "shade",
+      "shaded",
+      "shading"
+    ],
+    "emoji": "🖍️🎨",
+    "id": "gl542"
+  },
+  "shaded region": {
+    "word": "shaded region",
+    "definition": "The colored or marked part of a diagram used to show a particular set or result.",
+    "variations": [
+      "shaded region",
+      "shaded regions"
+    ],
+    "emoji": "⬛🖍️",
+    "id": "gl543"
+  },
+  "shadow": {
+    "word": "shadow",
+    "definition": "a dark shape made when light is blocked by an object",
+    "variations": [
+      "shadow",
+      "shadows"
+    ],
+    "emoji": "☀️🌑",
+    "id": "gl544"
+  },
+  "shape": {
+    "word": "shape",
+    "definition": "The form or outline of an object.",
+    "variations": [
+      "shape",
+      "shapes"
+    ],
+    "emoji": "🔺⭕",
+    "id": "gl545"
+  },
+  "shipping cost": {
+    "word": "shipping cost",
+    "definition": "The money charged to transport goods or packages.",
+    "variations": [
+      "shipping cost",
+      "shipping costs"
+    ],
+    "emoji": "📦🚚",
+    "id": "gl546"
+  },
+  "shrink": {
+    "word": "shrink",
+    "definition": "To make something smaller while keeping its shape.",
+    "variations": [
+      "shrink",
+      "shrinks",
+      "shrunk",
+      "shrinking"
+    ],
+    "emoji": "🔍⬇️",
+    "id": "gl547"
+  },
+  "side length": {
+    "word": "side length",
+    "definition": "The distance from one end of a side to the other.",
+    "variations": [
+      "side length",
+      "side lengths"
+    ],
+    "emoji": "📏🔺",
+    "id": "gl548"
+  },
+  "Side-Angle-Side (SAS) postulate": {
+    "word": "Side-Angle-Side (SAS) postulate",
+    "definition": "A rule that says two triangles are congruent if two pairs of corresponding sides and the included angle are equal.",
+    "variations": [
+      "Side-Angle-Side",
+      "SAS",
+      "SAS postulate"
+    ],
+    "emoji": "📐2️⃣",
+    "id": "gl549"
+  },
+  "Side-Angle-Side similarity theorem": {
+    "word": "Side-Angle-Side similarity theorem",
+    "definition": "A theorem stating that if two pairs of corresponding sides are proportional and the included corresponding angles are equal, then the triangles are similar.",
+    "variations": [
+      "Side-Angle-Side similarity theorem",
+      "SAS similarity theorem"
+    ],
+    "emoji": "📏📐🔺",
+    "id": "gl550"
+  },
+  "Side-Side-Side (SSS) postulate": {
+    "word": "Side-Side-Side (SSS) postulate",
+    "definition": "A rule that says two triangles are congruent if all three pairs of corresponding sides are equal.",
+    "variations": [
+      "Side-Side-Side",
+      "SSS",
+      "SSS postulate"
+    ],
+    "emoji": "3️⃣📐",
+    "id": "gl551"
+  },
+  "Side-Side-Side similarity theorem": {
+    "word": "Side-Side-Side similarity theorem",
+    "definition": "A theorem stating that if the three pairs of corresponding sides of two triangles are proportional, then the triangles are similar.",
+    "variations": [
+      "Side-Side-Side similarity theorem",
+      "SSS similarity theorem",
+      "SSS-Similarity theorem"
+    ],
+    "emoji": "📏📏🔺",
+    "id": "gl552"
+  },
+  "sign of a trigonometric ratio": {
+    "word": "sign of a trigonometric ratio",
+    "definition": "whether a trigonometric value is positive or negative",
+    "variations": [
+      "sign of a trigonometric ratio",
+      "signs of trigonometric ratios"
+    ],
+    "emoji": "➕➖📐",
+    "id": "gl553"
+  },
+  "significant figures": {
+    "word": "significant figures",
+    "definition": "Significant figures are the important digits in a number used to show its accuracy.",
+    "variations": [
+      "significant figure",
+      "significant figures"
+    ],
+    "emoji": "🔢📏",
+    "id": "gl554"
+  },
+  "similar": {
+    "word": "similar",
+    "definition": "In geometry, shapes are similar if they have the same shape but may have different sizes.",
+    "variations": [
+      "similar",
+      "similarity"
+    ],
+    "emoji": "🔺📐",
+    "id": "gl555"
+  },
+  "similar figures": {
+    "word": "similar figures",
+    "definition": "Shapes that have the same form, even if one is larger or smaller than the other.",
+    "variations": [
+      "similar figure",
+      "similar figures"
+    ],
+    "emoji": "🔷🔺",
+    "id": "gl556"
+  },
+  "similar to": {
+    "word": "similar to",
+    "definition": "Having the same shape as another figure, though the size may be different.",
+    "variations": [
+      "similar to"
+    ],
+    "emoji": "🔁✅",
+    "id": "gl557"
+  },
+  "similar triangles": {
+    "word": "similar triangles",
+    "definition": "Triangles that have the same shape but may have different sizes, with equal corresponding angles and proportional sides.",
+    "variations": [
+      "similar triangle",
+      "similar triangles"
+    ],
+    "emoji": "🔺🔁",
+    "id": "gl558"
+  },
+  "similarity": {
+    "word": "similarity",
+    "definition": "A relationship between figures that have the same shape, even if their sizes are different.",
+    "variations": [
+      "similarity",
+      "similarities"
+    ],
+    "emoji": "📏🔁",
+    "id": "gl559"
+  },
+  "similarity symbol": {
+    "word": "similarity symbol",
+    "definition": "The symbol ~ used to show that two figures are similar.",
+    "variations": [
+      "similarity symbol",
+      "symbol ~",
+      "tilde"
+    ],
+    "emoji": "~🔺",
+    "id": "gl560"
+  },
+  "similarity theorem": {
+    "word": "similarity theorem",
+    "definition": "A rule used to prove that two triangles are similar.",
+    "variations": [
+      "similarity theorem",
+      "similarity theorems"
+    ],
+    "emoji": "📘🔺",
+    "id": "gl561"
+  },
+  "simple interest": {
+    "word": "simple interest",
+    "definition": "Interest calculated only on the original amount of money.",
+    "variations": [
+      "simple interest"
+    ],
+    "emoji": "💰📈",
+    "id": "gl562"
+  },
+  "simplest form": {
+    "word": "simplest form",
+    "definition": "The most reduced and easiest form of an expression.",
+    "variations": [
+      "simplest form"
+    ],
+    "emoji": "✨📘",
+    "id": "gl563"
+  },
+  "simplify": {
+    "word": "simplify",
+    "definition": "To simplify means to rewrite an expression in an easier or shorter form without changing its value.",
+    "variations": [
+      "simplify",
+      "simplified",
+      "simplifying",
+      "simplest"
+    ],
+    "emoji": "🧹✍️",
+    "id": "gl564"
+  },
+  "simultaneous equations": {
+    "word": "simultaneous equations",
+    "definition": "Simultaneous equations are two or more equations solved together to find the same unknowns.",
+    "variations": [
+      "simultaneous equation",
+      "simultaneous equations"
+    ],
+    "emoji": "🟰🧩",
+    "id": "gl565"
+  },
+  "simultaneously": {
+    "word": "simultaneously",
+    "definition": "At the same time; in algebra, solving two or more equations together.",
+    "variations": [
+      "simultaneously",
+      "simultaneous"
+    ],
+    "emoji": "⏱️🧮",
+    "id": "gl566"
+  },
+  "sine": {
+    "word": "sine",
+    "definition": "A trigonometric ratio equal to the length of the opposite side divided by the hypotenuse.",
+    "variations": [
+      "sine",
+      "sin"
+    ],
+    "emoji": "📏➗",
+    "id": "gl567"
+  },
+  "single radical sign": {
+    "word": "single radical sign",
+    "definition": "One radical symbol used to write an expression instead of several separate factors.",
+    "variations": [
+      "single radical sign",
+      "single radical signs"
+    ],
+    "emoji": "√1️⃣",
+    "id": "gl568"
+  },
+  "singleton set": {
+    "word": "singleton set",
+    "definition": "A set that has only one element.",
+    "variations": [
+      "singleton set",
+      "singleton sets"
+    ],
+    "emoji": "1️⃣📦",
+    "id": "gl569"
+  },
+  "slant": {
+    "word": "slant",
+    "definition": "a side or line that is tilted instead of horizontal or vertical",
+    "variations": [
+      "slant",
+      "slants",
+      "slanted"
+    ],
+    "emoji": "📏↗️",
+    "id": "gl570"
+  },
+  "slope": {
+    "word": "slope",
+    "definition": "another word for the steepness or slant of a line",
+    "variations": [
+      "slopes"
+    ],
+    "emoji": "📐📈",
+    "id": "gl571"
+  },
+  "software": {
+    "word": "software",
+    "definition": "computer programs used to perform tasks, including mathematical calculations",
+    "variations": [
+      "software"
+    ],
+    "emoji": "💻🧮",
+    "id": "gl572"
+  },
+  "solution": {
+    "word": "solution",
+    "definition": "an answer that makes an equation true",
+    "variations": [
+      "solution",
+      "solutions"
+    ],
+    "emoji": "✅🧠",
+    "id": "gl573"
+  },
+  "solve": {
+    "word": "solve",
+    "definition": "To solve means to find the value of the unknown that makes an equation true.",
+    "variations": [
+      "solve",
+      "solves",
+      "solved",
+      "solving",
+      "solution"
+    ],
+    "emoji": "🧩✅",
+    "id": "gl574"
+  },
+  "solving by factorization": {
+    "word": "solving by factorization",
+    "definition": "a method of solving an equation by first factorizing it and then setting each factor equal to zero",
+    "variations": [
+      "solving by factorization",
+      "solve by factorization",
+      "factorization method",
+      "factorisation method"
+    ],
+    "emoji": "🧩🟰",
+    "id": "gl575"
+  },
+  "solving quadratic equations": {
+    "word": "solving quadratic equations",
+    "definition": "Finding the values of the variable that make a quadratic equation true.",
+    "variations": [
+      "solve quadratic equations",
+      "solved quadratic equations"
+    ],
+    "emoji": "2️⃣✅",
+    "id": "gl576"
+  },
+  "SOTOCAHAH": {
+    "word": "SOTOCAHAH",
+    "definition": "A memory phrase used to remember that sine is opposite over hypotenuse, tangent is opposite over adjacent, and cosine is adjacent over hypotenuse.",
+    "variations": [
+      "SOTOCAHAH"
+    ],
+    "emoji": "🧠📐",
+    "id": "gl577"
+  },
+  "sound intensity": {
+    "word": "sound intensity",
+    "definition": "Sound intensity is the amount of sound energy passing through an area.",
+    "variations": [
+      "sound intensity",
+      "intensity"
+    ],
+    "emoji": "🔊📏",
+    "id": "gl578"
+  },
+  "south": {
+    "word": "south",
+    "definition": "one of the main compass directions",
+    "variations": [
+      "south"
+    ],
+    "emoji": "🧭⬇️",
+    "id": "gl579"
+  },
+  "special angles": {
+    "word": "special angles",
+    "definition": "Angles such as 0°, 30°, 45°, 60°, and 90° whose trigonometric ratios are commonly known exactly.",
+    "variations": [
+      "special angle",
+      "special angles"
+    ],
+    "emoji": "⭐📐",
+    "id": "gl580"
+  },
+  "speed": {
+    "word": "speed",
+    "definition": "The distance travelled in a given amount of time.",
+    "variations": [
+      "speed",
+      "speeds"
+    ],
+    "emoji": "🏃⏱️",
+    "id": "gl581"
+  },
+  "sphere": {
+    "word": "sphere",
+    "definition": "a perfectly round 3D object, like a ball",
+    "variations": [
+      "spheres"
+    ],
+    "emoji": "⚽🔵",
+    "id": "gl582"
+  },
+  "splitting the middle term": {
+    "word": "splitting the middle term",
+    "definition": "a method of factorizing a quadratic expression by breaking the middle term into two parts that help form common factors",
+    "variations": [
+      "splitting the middle term",
+      "split the middle term",
+      "splitting middle term"
+    ],
+    "emoji": "✂️➗",
+    "id": "gl583"
+  },
+  "square": {
+    "word": "square",
+    "definition": "To multiply a number or expression by itself once.",
+    "variations": [
+      "square",
+      "squared",
+      "squares"
+    ],
+    "emoji": "²🔢",
+    "id": "gl584"
+  },
+  "square metre": {
+    "word": "square metre",
+    "definition": "A square metre is a unit used to measure area.",
+    "variations": [
+      "square metre",
+      "square metres",
+      "square meter",
+      "square meters"
+    ],
+    "emoji": "⬜📐",
+    "id": "gl585"
+  },
+  "square root": {
+    "word": "square root",
+    "definition": "a number or expression that gives the original number when multiplied by itself, like 3 is the square root of 9",
+    "variations": [
+      "square root",
+      "square roots"
+    ],
+    "emoji": "√🔢",
+    "id": "gl586"
+  },
+  "SSS": {
+    "word": "SSS",
+    "definition": "A short form for the Side-Side-Side similarity theorem.",
+    "variations": [
+      "SSS",
+      "S.S.S."
+    ],
+    "emoji": "📏🔺",
+    "id": "gl587"
+  },
+  "SSS postulate": {
+    "word": "SSS postulate",
+    "definition": "A geometry rule stating that if all three sides of one triangle are equal to the three sides of another triangle, the triangles are congruent.",
+    "variations": [],
+    "emoji": "📐🔺",
+    "id": "gl588"
+  },
+  "SSS Similarity theorem": {
+    "word": "SSS Similarity theorem",
+    "definition": "A rule that says two triangles are similar if all matching sides are proportional.",
+    "variations": [
+      "SSS similarity theorem",
+      "Side-Side-Side Similarity theorem"
+    ],
+    "emoji": "🔺📏",
+    "id": "gl589"
+  },
+  "SSS theorem": {
+    "word": "SSS theorem",
+    "definition": "A rule used to compare triangles by checking whether all three pairs of corresponding sides are proportional.",
+    "variations": [
+      "SSS theorem",
+      "SSS"
+    ],
+    "emoji": "📏🔺",
+    "id": "gl590"
+  },
+  "standard form": {
+    "word": "standard form",
+    "definition": "A way of writing numbers as a value between 1 and 10 multiplied by a power of 10.",
+    "variations": [
+      "standard form"
+    ],
+    "emoji": "📝🔟",
+    "id": "gl591"
+  },
+  "standard notation": {
+    "word": "standard notation",
+    "definition": "Standard notation here means writing numbers in standard form using powers of 10.",
+    "variations": [
+      "standard notation"
+    ],
+    "emoji": "🔟📝",
+    "id": "gl592"
+  },
+  "statement": {
+    "word": "statement",
+    "definition": "A sentence in mathematics that says something is true or false.",
+    "variations": [
+      "statement",
+      "statements"
+    ],
+    "emoji": "💬📘",
+    "id": "gl593"
+  },
+  "statement form": {
+    "word": "statement form",
+    "definition": "A way of describing a set using words that explain what its elements are.",
+    "variations": [
+      "statement form"
+    ],
+    "emoji": "💬📝",
+    "id": "gl594"
+  },
+  "stone": {
+    "word": "stone",
+    "definition": "a small piece of rock",
+    "variations": [
+      "stone",
+      "stones"
+    ],
+    "emoji": "🪨",
+    "id": "gl595"
+  },
+  "straight angle": {
+    "word": "straight angle",
+    "definition": "An angle that measures 180 degrees.",
+    "variations": [
+      "straight angle",
+      "straight angles"
+    ],
+    "emoji": "📏180°",
+    "id": "gl596"
+  },
+  "straight line": {
+    "word": "straight line",
+    "definition": "a graph line that does not curve",
+    "variations": [
+      "straight lines"
+    ],
+    "emoji": "📏",
+    "id": "gl597"
+  },
+  "street": {
+    "word": "street",
+    "definition": "a road in a town or city",
+    "variations": [
+      "street",
+      "streets"
+    ],
+    "emoji": "🏙️🛣️",
+    "id": "gl598"
+  },
+  "subdivide": {
+    "word": "subdivide",
+    "definition": "To divide into smaller parts.",
+    "variations": [
+      "subdivide",
+      "subdivided",
+      "subdivision"
+    ],
+    "emoji": "✂️▭",
+    "id": "gl599"
+  },
+  "subject of the equation": {
+    "word": "subject of the equation",
+    "definition": "the variable that is isolated on one side of an equation",
+    "variations": [
+      "make the subject"
+    ],
+    "emoji": "🟰🎯",
+    "id": "gl600"
+  },
+  "subject of the formula": {
+    "word": "subject of the formula",
+    "definition": "the variable that has been isolated on one side of a formula",
+    "variations": [
+      "subject of the formula"
+    ],
+    "emoji": "🎯📝",
+    "id": "gl601"
+  },
+  "subset": {
+    "word": "subset",
+    "definition": "A set whose every element is also found in another set.",
+    "variations": [
+      "subset",
+      "subsets"
+    ],
+    "emoji": "📦⬇️",
+    "id": "gl602"
+  },
+  "subtraction": {
+    "word": "subtraction",
+    "definition": "The operation of taking one number away from another.",
+    "variations": [
+      "subtraction"
+    ],
+    "emoji": "➖",
+    "id": "gl603"
+  },
+  "subtraction of radicals": {
+    "word": "subtraction of radicals",
+    "definition": "Combining like radicals by subtracting their coefficients.",
+    "variations": [
+      "subtraction of radicals"
+    ],
+    "emoji": "➖√",
+    "id": "gl604"
+  },
+  "sum": {
+    "word": "sum",
+    "definition": "the result of addition",
+    "variations": [
+      "sum",
+      "sums"
+    ],
+    "emoji": "➕🔢",
+    "id": "gl605"
+  },
+  "sun": {
+    "word": "sun",
+    "definition": "the star that gives Earth light and heat",
+    "variations": [
+      "sun"
+    ],
+    "emoji": "☀️",
+    "id": "gl606"
+  },
+  "supplier": {
+    "word": "supplier",
+    "definition": "a person or company that provides goods or materials",
+    "variations": [
+      "suppliers"
+    ],
+    "emoji": "📦🏭",
+    "id": "gl607"
+  },
+  "surd": {
+    "word": "surd",
+    "definition": "Another name for the radical symbol or for an expression containing a root.",
+    "variations": [
+      "surd",
+      "surds"
+    ],
+    "emoji": "√📘",
+    "id": "gl608"
+  },
+  "surface area": {
+    "word": "surface area",
+    "definition": "the total area covering the outside of an object",
+    "variations": [
+      "surface areas"
+    ],
+    "emoji": "⬜📐",
+    "id": "gl609"
+  },
+  "Swiss franc": {
+    "word": "Swiss franc",
+    "definition": "the official money used in Switzerland",
+    "variations": [
+      "Swiss francs",
+      "franc",
+      "francs"
+    ],
+    "emoji": "🇨🇭💵",
+    "id": "gl610"
+  },
+  "syllabus": {
+    "word": "syllabus",
+    "definition": "A syllabus is an outline of subjects or topics to be studied in a course.",
+    "variations": [
+      "syllabus",
+      "syllabi",
+      "syllabuses"
+    ],
+    "emoji": "📋🏫",
+    "id": "gl611"
+  },
+  "symbol": {
+    "word": "symbol",
+    "definition": "A sign used to represent an idea, object, or relationship in mathematics.",
+    "variations": [
+      "symbol",
+      "symbols"
+    ],
+    "emoji": "🔣🧮",
+    "id": "gl612"
+  },
+  "symbol of proportionality": {
+    "word": "symbol of proportionality",
+    "definition": "the sign ∝ used to show that two quantities are proportional",
+    "variations": [
+      "proportionality symbol"
+    ],
+    "emoji": "∝🔣",
+    "id": "gl613"
+  },
+  "tables": {
+    "word": "tables",
+    "definition": "Organized lists of values or facts used for calculation or reference.",
+    "variations": [
+      "table"
+    ],
+    "emoji": "📋📘",
+    "id": "gl614"
+  },
+  "tailor": {
+    "word": "tailor",
+    "definition": "a person who makes or repairs clothes",
+    "variations": [
+      "tailors"
+    ],
+    "emoji": "🧵👔",
+    "id": "gl615"
+  },
+  "tangent": {
+    "word": "tangent",
+    "definition": "A trigonometric ratio equal to the length of the opposite side divided by the adjacent side.",
+    "variations": [
+      "tangent",
+      "tan"
+    ],
+    "emoji": "📏➗",
+    "id": "gl616"
+  },
+  "Tanzania Institute of Education": {
+    "word": "Tanzania Institute of Education",
+    "definition": "The Tanzania Institute of Education is the institution that develops educational materials and curricula in Tanzania.",
+    "variations": [
+      "Tanzania Institute of Education",
+      "TIE"
+    ],
+    "emoji": "🏫📚",
+    "id": "gl617"
+  },
+  "Tanzanian shilling": {
+    "word": "Tanzanian shilling",
+    "definition": "the official money used in Tanzania",
+    "variations": [
+      "Tanzanian shillings",
+      "Tsh",
+      "Tshs"
+    ],
+    "emoji": "🇹🇿💵",
+    "id": "gl618"
+  },
+  "tape measure": {
+    "word": "tape measure",
+    "definition": "A flexible tool used for measuring length or distance.",
+    "variations": [
+      "tape measure",
+      "tape measures"
+    ],
+    "emoji": "📏🧰",
+    "id": "gl619"
+  },
+  "The United Republic of Tanzania": {
+    "word": "The United Republic of Tanzania",
+    "definition": "The United Republic of Tanzania is a country in East Africa.",
+    "variations": [
+      "The United Republic of Tanzania",
+      "Tanzania"
+    ],
+    "emoji": "🇹🇿🌍",
+    "id": "gl620"
+  },
+  "theorem": {
+    "word": "theorem",
+    "definition": "A mathematical statement that has been proven to be true.",
+    "variations": [
+      "theorem",
+      "theorems"
+    ],
+    "emoji": "📘✅",
+    "id": "gl621"
+  },
+  "third angles": {
+    "word": "third angles",
+    "definition": "The remaining angles in triangles after two pairs of angles are already known to be equal.",
+    "variations": [
+      "third angle",
+      "third angles"
+    ],
+    "emoji": "3️⃣📐",
+    "id": "gl622"
+  },
+  "third quadrant": {
+    "word": "third quadrant",
+    "definition": "the bottom-left part of the coordinate plane where x and y are both negative",
+    "variations": [
+      "third quadrant"
+    ],
+    "emoji": "3️⃣📊",
+    "id": "gl623"
+  },
+  "tower": {
+    "word": "tower",
+    "definition": "a tall narrow structure",
+    "variations": [
+      "tower",
+      "towers"
+    ],
+    "emoji": "🏗️⬆️",
+    "id": "gl624"
+  },
+  "transaction": {
+    "word": "transaction",
+    "definition": "A transaction is an act of buying, selling, or transferring money.",
+    "variations": [
+      "transaction",
+      "transactions"
+    ],
+    "emoji": "💳💸",
+    "id": "gl625"
+  },
+  "transposition": {
+    "word": "transposition",
+    "definition": "Transposition is the process of moving terms from one side of an equation to the other while keeping the equation true.",
+    "variations": [
+      "transposition",
+      "transpositions"
+    ],
+    "emoji": "↔️🟰",
+    "id": "gl626"
+  },
+  "transposition of formulae": {
+    "word": "transposition of formulae",
+    "definition": "Changing a formula so that a different variable becomes the subject.",
+    "variations": [
+      "transposition of formulae",
+      "transposition of formula",
+      "changing subject of the formula"
+    ],
+    "emoji": "🔄🧾",
+    "id": "gl627"
+  },
+  "trapezium": {
+    "word": "trapezium",
+    "definition": "A four-sided shape with one pair of parallel sides.",
+    "variations": [
+      "trapezium",
+      "trapeziums",
+      "trapezia"
+    ],
+    "emoji": "🔷📐",
+    "id": "gl628"
+  },
+  "travel": {
+    "word": "travel",
+    "definition": "to move from one place to another",
+    "variations": [
+      "travel",
+      "travels",
+      "travelling",
+      "traveled",
+      "travelled"
+    ],
+    "emoji": "🧭🚶",
+    "id": "gl629"
+  },
+  "tree": {
+    "word": "tree",
+    "definition": "a tall plant with a trunk, branches, and leaves",
+    "variations": [
+      "tree",
+      "trees"
+    ],
+    "emoji": "🌳",
+    "id": "gl630"
+  },
+  "triangle": {
+    "word": "triangle",
+    "definition": "A shape with three sides and three angles.",
+    "variations": [
+      "triangle",
+      "triangles"
+    ],
+    "emoji": "🔺📐",
+    "id": "gl631"
+  },
+  "trigonometric identity": {
+    "word": "trigonometric identity",
+    "definition": "an equation involving trigonometric ratios that is always true for allowed angles",
+    "variations": [
+      "trigonometric identity",
+      "trigonometric identities",
+      "trigonometrical identity",
+      "trigonometrical identities"
+    ],
+    "emoji": "🧮✅",
+    "id": "gl632"
+  },
+  "trigonometric ratio": {
+    "word": "trigonometric ratio",
+    "definition": "A ratio of two sides of a right-angled triangle used to describe an angle.",
+    "variations": [
+      "trigonometric ratio",
+      "trigonometric ratios"
+    ],
+    "emoji": "📐➗",
+    "id": "gl633"
+  },
+  "trigonometric ratios": {
+    "word": "trigonometric ratios",
+    "definition": "Ratios of sides in a right triangle, such as sine, cosine, and tangent.",
+    "variations": [
+      "trigonometric ratio"
+    ],
+    "emoji": "📐🔺",
+    "id": "gl634"
+  },
+  "trigonometric table": {
+    "word": "trigonometric table",
+    "definition": "a table that lists values of sine, cosine, and tangent for different angles",
+    "variations": [
+      "trigonometric table",
+      "trigonometric tables"
+    ],
+    "emoji": "📋📐",
+    "id": "gl635"
+  },
+  "trigonometry": {
+    "word": "trigonometry",
+    "definition": "The branch of mathematics that studies angles and the relationships between the sides of triangles.",
+    "variations": [
+      "trigonometry",
+      "trigonometric"
+    ],
+    "emoji": "📐📏",
+    "id": "gl636"
+  },
+  "undefined": {
+    "word": "undefined",
+    "definition": "Having no value under the given rule, such as dividing by zero.",
+    "variations": [
+      "undefined"
+    ],
+    "emoji": "🚫❓",
+    "id": "gl637"
+  },
+  "uniformly scaling": {
+    "word": "uniformly scaling",
+    "definition": "Resizing a figure equally in all directions so its shape stays the same.",
+    "variations": [
+      "uniformly scaling",
+      "uniform scaling",
+      "scale uniformly"
+    ],
+    "emoji": "📏🔍",
+    "id": "gl638"
+  },
+  "union": {
+    "word": "union",
+    "definition": "The set of all elements that are in one set or the other or both.",
+    "variations": [
+      "union",
+      "unions"
+    ],
+    "emoji": "∪➕",
+    "id": "gl639"
+  },
+  "unit": {
+    "word": "unit",
+    "definition": "A standard quantity used for measurement.",
+    "variations": [
+      "unit",
+      "units"
+    ],
+    "emoji": "📏",
+    "id": "gl640"
+  },
+  "unit circle": {
+    "word": "unit circle",
+    "definition": "a circle with radius 1, used to define trigonometric ratios for any angle",
+    "variations": [
+      "unit circle",
+      "unit circles"
+    ],
+    "emoji": "⭕1️⃣",
+    "id": "gl641"
+  },
+  "United States dollar": {
+    "word": "United States dollar",
+    "definition": "the official money used in the United States",
+    "variations": [
+      "United States dollars",
+      "USD",
+      "US dollar",
+      "US dollars"
+    ],
+    "emoji": "🇺🇸💲",
+    "id": "gl642"
+  },
+  "universal set": {
+    "word": "universal set",
+    "definition": "The set that contains all elements being discussed in a situation.",
+    "variations": [
+      "universal set",
+      "universal sets"
+    ],
+    "emoji": "🌐📦",
+    "id": "gl643"
+  },
+  "unlike radicals": {
+    "word": "unlike radicals",
+    "definition": "Radicals that do not have the same index or radicand, so they cannot be directly added or subtracted.",
+    "variations": [
+      "unlike radical",
+      "unlike radicals"
+    ],
+    "emoji": "🚫√",
+    "id": "gl644"
+  },
+  "upstairs": {
+    "word": "upstairs",
+    "definition": "on or to a higher floor of a building",
+    "variations": [
+      "upstairs"
+    ],
+    "emoji": "⬆️🏠",
+    "id": "gl645"
+  },
+  "variable": {
+    "word": "variable",
+    "definition": "A variable is a letter or symbol that stands for an unknown or changeable value.",
+    "variations": [
+      "variable",
+      "variables"
+    ],
+    "emoji": "x️⃣🔣",
+    "id": "gl646"
+  },
+  "variation": {
+    "word": "variation",
+    "definition": "a relationship in which changing one quantity causes a related change in another quantity",
+    "variations": [
+      "variations"
+    ],
+    "emoji": "📊🔄",
+    "id": "gl647"
+  },
+  "Venn diagram": {
+    "word": "Venn diagram",
+    "definition": "A diagram using circles or ovals to show relationships between sets.",
+    "variations": [
+      "Venn diagram",
+      "Venn diagrams"
+    ],
+    "emoji": "⭕📊",
+    "id": "gl648"
+  },
+  "vertex": {
+    "word": "vertex",
+    "definition": "The point where two sides of a shape meet.",
+    "variations": [
+      "vertex",
+      "vertices"
+    ],
+    "emoji": "📍🔺",
+    "id": "gl649"
+  },
+  "vertical": {
+    "word": "vertical",
+    "definition": "going straight up and down",
+    "variations": [
+      "vertical",
+      "vertically"
+    ],
+    "emoji": "↕️📏",
+    "id": "gl650"
+  },
+  "vertical angle": {
+    "word": "vertical angle",
+    "definition": "In this context, the angle at the top vertex of a triangle, especially an isosceles triangle.",
+    "variations": [
+      "vertical angle",
+      "vertical angles"
+    ],
+    "emoji": "📐🔺",
+    "id": "gl651"
+  },
+  "vertices": {
+    "word": "vertices",
+    "definition": "Corner points where two sides of a shape meet.",
+    "variations": [
+      "vertex",
+      "vertices"
+    ],
+    "emoji": "📍🔺",
+    "id": "gl652"
+  },
+  "visual diagram": {
+    "word": "visual diagram",
+    "definition": "a drawing used to show information or explain an idea",
+    "variations": [
+      "visual diagram",
+      "visual diagrams",
+      "diagram",
+      "diagrams"
+    ],
+    "emoji": "📊✏️",
+    "id": "gl653"
+  },
+  "void set": {
+    "word": "void set",
+    "definition": "Another name for a set that has no elements.",
+    "variations": [
+      "void set",
+      "void sets"
+    ],
+    "emoji": "🈳∅",
+    "id": "gl654"
+  },
+  "volume": {
+    "word": "volume",
+    "definition": "The amount of space inside a three-dimensional object.",
+    "variations": [
+      "volume",
+      "volumes"
+    ],
+    "emoji": "📦📏",
+    "id": "gl655"
+  },
+  "vowel": {
+    "word": "vowel",
+    "definition": "A speech letter such as a, e, i, o, or u.",
+    "variations": [
+      "vowel",
+      "vowels"
+    ],
+    "emoji": "🔤🗣️",
+    "id": "gl656"
+  },
+  "wall": {
+    "word": "wall",
+    "definition": "a vertical side of a building or room",
+    "variations": [
+      "wall",
+      "walls"
+    ],
+    "emoji": "🧱",
+    "id": "gl657"
+  },
+  "watt": {
+    "word": "watt",
+    "definition": "A unit used to measure power.",
+    "variations": [
+      "watt",
+      "watts"
+    ],
+    "emoji": "⚡💡",
+    "id": "gl658"
+  },
+  "west": {
+    "word": "west",
+    "definition": "one of the main compass directions",
+    "variations": [
+      "west"
+    ],
+    "emoji": "🧭⬅️",
+    "id": "gl659"
+  },
+  "wheelchair": {
+    "word": "wheelchair",
+    "definition": "a chair with wheels used by a person who cannot walk easily",
+    "variations": [
+      "wheelchair",
+      "wheelchairs"
+    ],
+    "emoji": "♿",
+    "id": "gl660"
+  },
+  "width": {
+    "word": "width",
+    "definition": "The measurement from side to side across something.",
+    "variations": [
+      "width",
+      "widths"
+    ],
+    "emoji": "↔️📏",
+    "id": "gl661"
+  },
+  "window": {
+    "word": "window",
+    "definition": "an opening in a wall with glass that lets in light or air",
+    "variations": [
+      "window",
+      "windows"
+    ],
+    "emoji": "🪟",
+    "id": "gl662"
+  },
+  "wire": {
+    "word": "wire",
+    "definition": "a thin metal strand used to carry electricity",
+    "variations": [
+      "wires"
+    ],
+    "emoji": "🔌🧵",
+    "id": "gl663"
+  },
+  "workspace": {
+    "word": "workspace",
+    "definition": "The area in a program where you create or edit objects.",
+    "variations": [
+      "workspace",
+      "workspaces"
+    ],
+    "emoji": "💻🖥️",
+    "id": "gl664"
+  },
+  "x-y plane": {
+    "word": "x-y plane",
+    "definition": "A flat surface with two perpendicular axes, x and y, used to locate points.",
+    "variations": [
+      "xy-plane",
+      "coordinate plane",
+      "x-y planes"
+    ],
+    "emoji": "📈📍",
+    "id": "gl665"
+  },
+  "year": {
+    "word": "year",
+    "definition": "A period of 12 months.",
+    "variations": [
+      "year",
+      "years"
+    ],
+    "emoji": "📅",
+    "id": "gl666"
+  },
+  "yen": {
+    "word": "yen",
+    "definition": "the official money used in Japan",
+    "variations": [
+      "Japanese yen"
+    ],
+    "emoji": "🇯🇵💴",
+    "id": "gl667"
+  },
+  "zero": {
+    "word": "zero",
+    "definition": "a value of the variable that makes an expression equal to zero; another name for a root of a polynomial equation",
+    "variations": [
+      "zero",
+      "zeros"
+    ],
+    "emoji": "0️⃣🧮",
+    "id": "gl668"
+  },
+  "zero exponent": {
+    "word": "zero exponent",
+    "definition": "A zero exponent means that any non-zero base raised to 0 is equal to 1.",
+    "variations": [
+      "zero exponent",
+      "zero exponents"
+    ],
+    "emoji": "0️⃣1️⃣",
+    "id": "gl669"
+  },
+  "zero exponents": {
+    "word": "zero exponents",
+    "definition": "Powers of zero on a nonzero base, which always give 1.",
+    "variations": [
+      "zero exponent"
+    ],
+    "emoji": "0️⃣🔢",
+    "id": "gl670"
+  },
+  "Zero factor theorem": {
+    "word": "Zero factor theorem",
+    "definition": "the rule that says if a product of factors equals zero, then at least one of the factors must be zero",
+    "variations": [
+      "Zero factor theorem",
+      "zero factor theorem"
+    ],
+    "emoji": "0️⃣📘",
+    "id": "gl671"
+  }
+}
